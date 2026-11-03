@@ -1,0 +1,701 @@
+ID,State,City,Locality,Property_Type,BHK,Size_in_SqFt,Price_in_Lakhs,Price_per_SqFt,Year_Built,Furnished_Status,Floor_No,Total_Floors,Nearby_Schools,Nearby_Hospitals,Public_Transport_Accessibility,Parking_Space,Security,Amenities,Facing,Owner_Type,Availability_Status
+1,Maharashtra,Pune,East,Apartment,3,1569,34.83374073115428,2220.1236922341795,2019,Semi,8,10,4,3,Low,0,Gated,"Gym, Pool",South,Builder,Under Construction
+2,Karnataka,Bengaluru,Riverside,House,5,1774,55.63876821481501,3136.3454461564265,2007,Unfurnished,1,9,5,1,Medium,0,CCTV,"Gym, Pool",South,Individual,Sold
+3,Maharashtra,Nagpur,Central,Apartment,2,810,42.64226140647983,5264.476716849362,2005,Fully,10,14,6,1,High,1,Guard,"Gym, Pool",East,Agent,Under Construction
+4,Maharashtra,Nashik,North,Apartment,3,818,30.274867359306246,3701.084029255042,2016,Fully,10,19,7,2,Medium,1,Guard,Basic,South,Builder,Available
+5,Maharashtra,Nashik,Tech Park,Apartment,2,728,25.34009521988873,3480.782310424276,2010,Fully,9,22,2,3,Low,0,Gated,Pool,East,Agent,Sold
+6,Telangana,Hyderabad,East,Apartment,4,1664,59.36713069916378,3567.7362199016693,2022,Unfurnished,11,16,2,0,Medium,2,None,Basic,South,Builder,Under Construction
+7,Maharashtra,Pune,East,Apartment,1,466,15.0,3218.8841201716737,2009,Semi,14,17,7,4,Low,0,CCTV,Gym,East,Individual,Available
+8,Karnataka,Bengaluru,East,Villa,4,1680,58.10053185316914,3458.3649912600677,2016,Fully,12,20,7,2,High,1,Guard,Basic,West,Builder,Available
+9,Maharashtra,Mumbai,North,House,4,1473,32.03491951748136,2174.807842327316,2021,Semi,11,8,1,0,Medium,1,Gated,Gym,North,Builder,Under Construction
+10,Maharashtra,Pune,Riverside,Apartment,4,1451,15.0,1033.7698139214335,2008,Fully,14,8,3,0,Medium,1,None,Basic,North,Individual,Under Construction
+11,Maharashtra,Nagpur,Riverside,Apartment,4,1910,49.26749854609316,2579.450185659328,2003,Fully,10,13,7,4,Medium,2,Guard,Pool,East,Individual,Sold
+12,Telangana,Hyderabad,West,Apartment,3,1573,60.27238269206641,3831.683578643764,2024,Unfurnished,10,16,1,0,High,2,Gated,Basic,North,Agent,Available
+13,Karnataka,Bengaluru,South,Apartment,4,2014,41.11589418474452,2041.5041799773844,2001,Semi,8,17,6,2,High,2,CCTV,Pool,North,Builder,Under Construction
+14,Karnataka,Bengaluru,West,Apartment,5,2092,49.549112869328,2368.5044392604204,1996,Unfurnished,11,6,0,3,Medium,1,CCTV,Pool,West,Builder,Sold
+15,Karnataka,Bengaluru,Tech Park,Villa,5,2428,61.4742296699825,2531.887548187088,2012,Semi,1,20,1,2,Medium,0,Gated,Basic,South,Builder,Sold
+16,Karnataka,Bengaluru,West,Apartment,4,2168,69.29453240728732,3196.242269708825,2024,Semi,7,11,6,1,Low,1,None,Basic,East,Agent,Sold
+17,Maharashtra,Nagpur,East,Apartment,3,1563,35.600296121876426,2277.6900909709807,1997,Fully,6,22,4,0,Medium,1,None,"Gym, Pool",West,Individual,Available
+18,Maharashtra,Pune,North,Apartment,4,1508,30.527362073800184,2024.3608802254762,2020,Fully,13,18,4,3,Medium,1,None,Pool,North,Builder,Available
+19,Telangana,Hyderabad,East,Apartment,2,956,62.68552407661032,6557.06318792995,2019,Semi,1,24,6,2,Medium,1,CCTV,Gym,South,Individual,Under Construction
+20,Maharashtra,Nashik,South,Apartment,5,1739,44.66195193607683,2568.2548554385758,2022,Semi,9,16,2,0,High,0,Guard,"Gym, Pool",North,Individual,Under Construction
+21,Maharashtra,Nagpur,West,House,1,749,30.17759356506286,4029.0512102887665,2007,Semi,2,14,4,0,High,1,CCTV,Basic,South,Individual,Available
+22,Maharashtra,Nashik,Central,Villa,5,2452,41.10155055314882,1676.2459442556615,2002,Semi,13,7,4,2,Medium,2,CCTV,"Gym, Pool",North,Builder,Available
+23,Maharashtra,Mumbai,North,House,4,2266,41.71738677545973,1841.0144208058134,2010,Semi,12,11,5,0,Medium,1,Guard,Basic,West,Builder,Available
+24,Telangana,Hyderabad,Riverside,House,1,707,50.8075493663909,7186.357760451329,1999,Fully,3,21,2,1,Low,2,CCTV,Pool,South,Builder,Under Construction
+25,Karnataka,Bengaluru,South,Apartment,4,2139,62.942442917784234,2942.6107020936997,2020,Fully,13,11,5,0,Medium,2,None,Basic,North,Agent,Sold
+26,Maharashtra,Nagpur,East,House,1,701,40.089312281455825,5718.8747905072505,2014,Fully,7,4,3,3,High,2,Gated,Basic,North,Builder,Available
+27,Maharashtra,Nashik,East,Apartment,4,2000,52.69007418359894,2634.503709179947,2009,Unfurnished,14,8,4,3,High,0,Gated,Gym,North,Builder,Available
+28,Karnataka,Bengaluru,East,Apartment,2,638,48.30849526497715,7571.864461595163,2010,Semi,10,16,6,3,High,2,None,Basic,North,Agent,Available
+29,Maharashtra,Nagpur,Riverside,Apartment,3,1499,40.34175904751208,2691.2447663450353,2016,Semi,0,16,3,0,Medium,1,None,Gym,North,Builder,Sold
+30,Maharashtra,Nashik,North,Apartment,3,1864,41.02402025585655,2200.8594557862953,2010,Semi,3,24,5,1,High,1,None,Basic,East,Agent,Sold
+31,Maharashtra,Nashik,Riverside,Apartment,4,2016,44.051943867447974,2185.1162632662686,2020,Semi,6,23,7,1,High,1,CCTV,Basic,West,Individual,Under Construction
+32,Maharashtra,Mumbai,North,Apartment,4,1350,21.07112876199872,1560.8243527406462,2022,Fully,3,14,6,3,Medium,0,CCTV,"Gym, Pool",West,Agent,Available
+33,Maharashtra,Pune,South,Villa,5,2431,21.316391436592284,876.8569081280249,2023,Semi,1,15,7,4,Low,2,Gated,"Gym, Pool",West,Agent,Available
+34,Maharashtra,Nagpur,West,Villa,4,2114,72.23527689106832,3416.995122567092,2013,Unfurnished,14,20,4,1,Medium,1,CCTV,"Gym, Pool",West,Builder,Sold
+35,Telangana,Hyderabad,Tech Park,Apartment,2,897,55.49635255508868,6186.884342819251,2017,Semi,13,4,2,3,High,2,Guard,Basic,South,Individual,Under Construction
+36,Maharashtra,Pune,North,Apartment,4,1893,15.33609868268191,810.1478437761178,2004,Fully,6,16,7,2,Medium,2,CCTV,Gym,South,Builder,Available
+37,Telangana,Hyderabad,West,Villa,5,2020,60.6316188082605,3001.565287537648,1996,Unfurnished,3,13,5,4,High,1,CCTV,Gym,East,Agent,Sold
+38,Karnataka,Bengaluru,Central,Apartment,3,1167,59.317243021569695,5082.88286388772,2007,Unfurnished,2,20,1,0,High,2,Gated,Gym,South,Builder,Under Construction
+39,Maharashtra,Mumbai,Central,Apartment,5,2037,38.97807340394384,1913.503848990861,2021,Fully,13,20,2,4,Low,1,CCTV,Gym,East,Individual,Under Construction
+40,Maharashtra,Nagpur,Riverside,Apartment,5,2381,60.88758696791,2557.2275081020584,1999,Unfurnished,4,17,2,2,High,1,Guard,Pool,West,Individual,Under Construction
+41,Maharashtra,Pune,Riverside,Apartment,5,2206,51.776238034941805,2347.0642808223847,2011,Semi,0,17,6,1,Medium,2,Guard,Gym,North,Builder,Available
+42,Karnataka,Bengaluru,South,Apartment,4,2089,49.791820593373686,2383.5242026507267,2000,Fully,5,18,0,0,High,2,Guard,Gym,West,Agent,Sold
+43,Karnataka,Bengaluru,West,House,3,1814,43.185256435427625,2380.6646326035075,2007,Unfurnished,6,15,5,4,Medium,2,None,"Gym, Pool",West,Builder,Sold
+44,Maharashtra,Nashik,South,Villa,1,1031,26.678553845283762,2587.6385882913446,1999,Semi,9,8,4,4,Medium,2,Gated,"Gym, Pool",East,Agent,Available
+45,Maharashtra,Pune,North,Villa,5,2159,34.32203897878412,1589.7192671970413,2017,Unfurnished,5,9,0,0,Low,1,CCTV,Gym,South,Agent,Sold
+46,Telangana,Hyderabad,East,Apartment,2,1233,64.23106645632245,5209.332234900443,2019,Unfurnished,13,19,4,2,Low,2,Guard,Basic,South,Individual,Available
+47,Maharashtra,Nashik,South,House,3,1594,43.49011121145737,2728.3633131403617,2017,Unfurnished,9,16,6,3,Medium,0,CCTV,Pool,North,Individual,Under Construction
+48,Telangana,Hyderabad,Riverside,Villa,2,1126,59.035754074149786,5242.962173547938,2016,Unfurnished,14,8,5,2,Medium,2,None,Gym,South,Agent,Sold
+49,Karnataka,Bengaluru,South,Apartment,3,1122,54.25439030043197,4835.507156901245,2002,Semi,5,22,4,0,Medium,1,Gated,"Gym, Pool",East,Builder,Available
+50,Karnataka,Bengaluru,South,Apartment,1,788,37.23075241427621,4724.714773385305,2010,Semi,9,24,2,1,Low,1,Gated,Gym,East,Agent,Sold
+51,Karnataka,Bengaluru,East,Apartment,5,2516,64.0213227721888,2544.567677749952,1998,Unfurnished,5,16,1,1,Medium,2,CCTV,Basic,North,Agent,Available
+52,Maharashtra,Mumbai,Riverside,Apartment,1,767,18.936258846929093,2468.8733829112243,2006,Fully,10,8,0,1,Low,0,CCTV,Basic,East,Builder,Sold
+53,Maharashtra,Nashik,North,Apartment,2,635,29.678880331551547,4673.839422291582,2010,Fully,11,23,2,4,Low,2,None,Basic,West,Individual,Under Construction
+54,Maharashtra,Nashik,Tech Park,Apartment,5,2462,55.591346433813065,2257.9750785464284,2015,Unfurnished,4,8,5,1,Medium,1,CCTV,Gym,North,Agent,Available
+55,Maharashtra,Nashik,East,Apartment,4,1643,42.01848325694948,2557.424422212385,1997,Fully,14,12,0,3,Medium,1,CCTV,Gym,North,Builder,Sold
+56,Maharashtra,Pune,West,Apartment,2,1391,19.951114665618526,1434.3001197425253,2019,Unfurnished,12,21,7,4,Medium,0,Gated,"Gym, Pool",West,Individual,Available
+57,Maharashtra,Nagpur,Tech Park,Apartment,4,2035,40.41624523792668,1986.0562770479942,2008,Semi,13,14,4,3,High,1,CCTV,"Gym, Pool",East,Builder,Sold
+58,Maharashtra,Pune,East,House,3,1274,24.18390756399105,1898.2658998423115,2021,Semi,3,8,2,3,High,2,Guard,Basic,East,Individual,Sold
+59,Karnataka,Bengaluru,North,Apartment,2,725,41.765698479245614,5760.7859971373255,2010,Semi,10,4,7,0,Medium,0,Guard,"Gym, Pool",West,Individual,Available
+60,Karnataka,Bengaluru,Riverside,Apartment,5,2018,58.349903424073794,2891.4719238886914,2011,Fully,1,10,1,0,High,1,Guard,Pool,East,Builder,Under Construction
+61,Telangana,Hyderabad,Central,Apartment,2,828,70.26062083759149,8485.582226762257,2015,Fully,1,17,7,3,Low,2,CCTV,Gym,East,Builder,Under Construction
+62,Karnataka,Bengaluru,East,House,4,1638,53.16999570529955,3246.031483840021,2019,Unfurnished,14,18,2,3,High,1,Gated,Gym,North,Builder,Under Construction
+63,Maharashtra,Nashik,Tech Park,Apartment,5,2490,54.46151501538551,2187.209438368896,1999,Semi,2,7,3,3,Medium,1,Gated,Gym,West,Agent,Under Construction
+64,Telangana,Hyderabad,South,House,5,2462,81.99629940797216,3330.4751993489913,2010,Fully,12,6,3,2,High,1,Gated,Basic,West,Builder,Available
+65,Maharashtra,Nashik,West,Apartment,3,1225,40.43320126252522,3300.6694908183854,1995,Fully,6,18,7,2,High,0,Guard,"Gym, Pool",South,Agent,Under Construction
+66,Maharashtra,Mumbai,East,Apartment,4,2127,55.48531185857994,2608.6183290352583,2009,Fully,4,6,2,0,High,1,None,Basic,East,Agent,Available
+67,Telangana,Hyderabad,North,Apartment,2,1767,56.79993853148644,3214.48435379097,2019,Semi,1,4,7,1,High,2,None,Basic,East,Agent,Sold
+68,Maharashtra,Nashik,South,Apartment,4,1480,41.50642396110078,2804.4881054797825,2020,Unfurnished,10,13,2,2,Low,1,CCTV,Gym,North,Individual,Sold
+69,Maharashtra,Pune,East,House,2,750,15.0,2000.0,2003,Semi,10,15,2,0,Low,1,Gated,Basic,North,Agent,Available
+70,Maharashtra,Nashik,Central,House,2,1259,30.19606130779259,2398.4163072114843,2006,Fully,7,8,5,0,Medium,0,Guard,Basic,East,Individual,Sold
+71,Karnataka,Bengaluru,South,Apartment,3,1851,53.77121805425415,2904.982066680397,2011,Fully,12,7,5,0,Medium,2,Gated,Gym,East,Builder,Sold
+72,Maharashtra,Mumbai,South,House,5,2571,53.168774003812935,2068.019214461802,2006,Fully,4,8,2,1,Low,2,Guard,Gym,East,Builder,Available
+73,Maharashtra,Nashik,Riverside,Apartment,2,460,26.579825812158987,5778.223002643258,2000,Fully,8,10,1,4,High,2,CCTV,Basic,South,Individual,Sold
+74,Maharashtra,Pune,Central,Apartment,5,1993,48.692154737055745,2443.1587926269817,2004,Semi,4,3,3,3,Low,1,None,"Gym, Pool",West,Individual,Sold
+75,Karnataka,Bengaluru,Riverside,Apartment,5,2269,63.82965770949666,2813.1184534815625,2007,Unfurnished,8,3,4,4,High,1,Guard,"Gym, Pool",South,Agent,Available
+76,Maharashtra,Nashik,South,Apartment,5,2495,56.2218889782383,2253.382323777086,2010,Semi,2,11,0,1,Low,1,Guard,Pool,North,Agent,Under Construction
+77,Maharashtra,Mumbai,West,House,2,1361,46.25379091239529,3398.5151294926736,2022,Semi,7,3,0,2,Medium,0,CCTV,Pool,North,Individual,Sold
+78,Maharashtra,Mumbai,East,Apartment,2,704,20.30968436574626,2884.898347407139,2011,Fully,8,10,7,4,High,0,None,"Gym, Pool",West,Builder,Under Construction
+79,Maharashtra,Nagpur,South,Apartment,2,1032,35.16034266872209,3407.009948519582,2006,Semi,8,15,0,1,Medium,1,Guard,Gym,East,Individual,Available
+80,Karnataka,Bengaluru,Tech Park,Apartment,4,2278,59.37039019146931,2606.250666877494,2014,Fully,6,3,3,3,High,1,Guard,Gym,South,Agent,Under Construction
+81,Telangana,Hyderabad,North,Apartment,5,2337,71.42229044519175,3056.1527789983634,2018,Unfurnished,9,16,6,3,High,0,CCTV,Basic,North,Agent,Under Construction
+82,Maharashtra,Nashik,Central,Apartment,5,1819,51.999282700635426,2858.674145169622,2007,Fully,7,16,2,4,High,2,CCTV,Pool,North,Agent,Sold
+83,Maharashtra,Pune,Riverside,Villa,2,713,15.0,2103.786816269285,2009,Semi,4,15,3,4,Medium,1,None,Basic,North,Builder,Under Construction
+84,Karnataka,Bengaluru,West,Apartment,1,712,43.74398021087736,6143.817445347943,2001,Fully,3,16,0,3,High,2,CCTV,Pool,North,Individual,Under Construction
+85,Maharashtra,Nagpur,Tech Park,Apartment,4,1478,48.86564840101105,3306.20083903999,2020,Semi,9,20,6,2,Medium,0,Gated,"Gym, Pool",East,Individual,Sold
+86,Karnataka,Bengaluru,East,Apartment,4,1714,61.47524014439738,3586.653450664958,2021,Semi,14,4,5,4,High,0,CCTV,Basic,North,Individual,Under Construction
+87,Maharashtra,Pune,Central,Apartment,1,519,15.0,2890.173410404624,2000,Unfurnished,11,6,6,3,High,0,CCTV,Pool,North,Agent,Sold
+88,Maharashtra,Mumbai,Central,Apartment,5,1925,32.44197621551252,1685.2974657409102,2005,Fully,9,9,6,1,Low,2,CCTV,Gym,South,Individual,Sold
+89,Karnataka,Bengaluru,East,Villa,4,1620,64.72358549153861,3995.283055033248,2003,Fully,13,18,2,3,Medium,0,Gated,Gym,East,Agent,Sold
+90,Karnataka,Bengaluru,North,House,2,476,46.124108398029854,9689.938739081901,2022,Fully,13,22,0,2,High,2,Gated,Pool,South,Agent,Available
+91,Maharashtra,Nashik,Tech Park,Apartment,2,655,29.507686966555173,4504.990376573309,1996,Unfurnished,7,23,2,1,Low,2,CCTV,Basic,North,Individual,Sold
+92,Karnataka,Bengaluru,Central,House,3,1426,49.49306890844335,3470.762195543012,2001,Unfurnished,1,15,1,2,High,0,CCTV,"Gym, Pool",East,Agent,Sold
+93,Telangana,Hyderabad,Tech Park,Apartment,3,2003,70.53621406816883,3521.528410792253,2004,Fully,9,12,4,3,Low,1,Gated,Gym,South,Agent,Available
+94,Maharashtra,Nashik,North,Apartment,5,2224,47.05022105595005,2115.567493522934,2011,Unfurnished,9,12,1,4,High,0,CCTV,Gym,North,Builder,Under Construction
+95,Telangana,Hyderabad,Central,Villa,3,1377,55.39985030212971,4023.228053894677,2002,Semi,4,4,7,2,High,1,CCTV,"Gym, Pool",East,Builder,Under Construction
+96,Maharashtra,Mumbai,North,Villa,2,1085,15.0,1382.4884792626729,2011,Semi,12,13,4,0,Low,0,Gated,Basic,West,Individual,Under Construction
+97,Maharashtra,Mumbai,North,House,5,2531,58.62215419784616,2316.1657130717567,2017,Fully,13,14,2,4,High,2,CCTV,Gym,East,Builder,Sold
+98,Karnataka,Bengaluru,South,Apartment,4,1435,56.31303367045926,3924.253217453607,2019,Fully,4,7,7,2,Low,2,CCTV,"Gym, Pool",North,Agent,Sold
+99,Maharashtra,Nagpur,South,Apartment,3,1128,44.14396598513751,3913.472161802971,1997,Fully,7,19,6,1,Medium,0,Gated,Gym,South,Builder,Available
+100,Maharashtra,Pune,East,Apartment,3,1400,31.59813117632274,2257.0093697373386,1999,Unfurnished,2,20,3,3,High,0,None,Basic,East,Individual,Under Construction
+101,Karnataka,Bengaluru,East,Apartment,2,475,65.24081922663964,13734.909310871504,1997,Semi,2,9,1,1,Low,2,Gated,Gym,West,Builder,Sold
+102,Maharashtra,Mumbai,Central,Villa,2,1099,15.0,1364.877161055505,2022,Fully,3,23,2,1,Low,1,Guard,"Gym, Pool",West,Agent,Under Construction
+103,Karnataka,Bengaluru,Central,Apartment,4,1558,47.72250545677481,3063.0619677005657,2014,Fully,5,5,4,4,Medium,1,Guard,"Gym, Pool",West,Individual,Sold
+104,Maharashtra,Pune,North,Apartment,5,2424,21.91376414938576,904.0331744796106,2010,Unfurnished,4,23,6,4,Medium,2,None,"Gym, Pool",West,Agent,Under Construction
+105,Karnataka,Bengaluru,North,Apartment,5,2037,63.92117938451922,3138.00586080114,2018,Fully,2,19,2,2,Low,0,Guard,Gym,East,Individual,Sold
+106,Karnataka,Bengaluru,Central,Apartment,5,2129,49.52546805436343,2326.231472727263,2012,Semi,6,7,5,1,Medium,2,Guard,"Gym, Pool",East,Individual,Sold
+107,Karnataka,Bengaluru,South,Apartment,3,1621,47.65012091343524,2939.5509508596692,2002,Unfurnished,9,17,2,4,Low,1,None,Gym,East,Builder,Available
+108,Maharashtra,Nagpur,East,Apartment,1,687,21.61631695444209,3146.4799060323276,2010,Semi,4,9,1,0,Low,1,None,"Gym, Pool",East,Builder,Sold
+109,Maharashtra,Nashik,South,Apartment,3,1290,38.3036577138506,2969.2757917713643,2016,Fully,8,20,3,3,Low,1,Gated,"Gym, Pool",East,Agent,Available
+110,Karnataka,Bengaluru,South,Apartment,5,2593,76.09892011323983,2934.782881343611,1996,Unfurnished,4,6,1,2,Low,2,None,Basic,North,Individual,Sold
+111,Maharashtra,Mumbai,East,Apartment,2,544,23.334125609029623,4289.361325189269,2013,Unfurnished,10,8,3,4,High,1,CCTV,"Gym, Pool",West,Individual,Sold
+112,Karnataka,Bengaluru,East,Apartment,5,2340,73.67853702104014,3148.6554282495786,2009,Fully,9,9,2,2,High,0,Gated,Pool,North,Builder,Available
+113,Maharashtra,Nagpur,South,Villa,4,1921,51.20022979422448,2665.2904629997124,1997,Fully,14,7,2,4,Medium,0,Guard,Pool,South,Agent,Available
+114,Maharashtra,Nashik,North,Apartment,2,1060,26.285877220749203,2479.799737806529,2002,Unfurnished,0,10,6,0,High,2,None,"Gym, Pool",South,Agent,Under Construction
+115,Maharashtra,Nagpur,South,Apartment,5,2122,72.57854924631678,3420.289785406069,2008,Fully,12,16,2,3,Medium,1,Gated,Basic,West,Builder,Available
+116,Maharashtra,Nagpur,Central,Apartment,4,2249,49.52393668696944,2202.0425383267875,2005,Fully,5,16,5,0,High,0,Gated,Pool,North,Agent,Under Construction
+117,Maharashtra,Pune,East,House,1,542,15.0,2767.5276752767527,2003,Fully,0,15,5,3,Low,0,None,Basic,South,Agent,Available
+118,Maharashtra,Pune,Tech Park,Villa,1,678,15.0,2212.3893805309735,2014,Unfurnished,10,7,5,0,Low,0,Guard,Gym,South,Agent,Available
+119,Maharashtra,Mumbai,South,Apartment,3,1881,15.0,797.4481658692185,2007,Semi,2,7,2,4,High,2,Gated,Basic,North,Agent,Under Construction
+120,Maharashtra,Pune,Central,Apartment,5,2598,36.96685878983168,1422.8967971451764,2009,Fully,2,23,6,3,Low,2,None,Basic,North,Builder,Sold
+121,Maharashtra,Nashik,West,Apartment,1,501,22.855311219242292,4561.9383671142305,2018,Fully,14,8,1,0,High,1,CCTV,"Gym, Pool",South,Agent,Available
+122,Karnataka,Bengaluru,Central,House,3,1881,45.82892560726814,2436.4128446181894,1997,Semi,3,5,2,4,Medium,0,CCTV,Gym,West,Individual,Available
+123,Maharashtra,Nagpur,North,Apartment,2,743,51.91920461608428,6987.779894493173,2005,Unfurnished,8,12,6,1,Medium,1,CCTV,Gym,South,Builder,Available
+124,Maharashtra,Nashik,North,Apartment,5,1847,54.33781561389223,2941.949952024485,1997,Unfurnished,3,3,2,2,Medium,0,Guard,Gym,West,Agent,Available
+125,Telangana,Hyderabad,Tech Park,House,5,1790,78.68000553816971,4395.531035651939,2022,Unfurnished,1,10,5,0,High,1,Gated,Pool,East,Individual,Available
+126,Maharashtra,Nagpur,Tech Park,Villa,2,644,29.326668688182195,4553.830541643199,2000,Unfurnished,0,21,0,0,Low,1,CCTV,Pool,West,Builder,Available
+127,Maharashtra,Pune,East,Apartment,4,1913,18.51871551939487,968.0457668267052,2019,Unfurnished,0,8,4,1,High,2,CCTV,Pool,West,Agent,Under Construction
+128,Karnataka,Bengaluru,West,Apartment,5,2378,72.41672193291635,3045.278466480923,2000,Unfurnished,7,18,6,2,High,0,Gated,"Gym, Pool",East,Individual,Available
+129,Maharashtra,Nagpur,West,Apartment,4,2306,51.049469774978654,2213.7671194700197,2004,Fully,6,13,5,2,High,0,None,Gym,East,Agent,Sold
+130,Maharashtra,Nagpur,West,Apartment,1,512,15.675387522650485,3061.5991255176727,2013,Semi,0,10,4,4,High,0,Gated,"Gym, Pool",North,Builder,Under Construction
+131,Maharashtra,Nagpur,East,Apartment,2,978,33.84934984709661,3461.078716472046,2019,Semi,5,17,6,0,High,1,None,"Gym, Pool",East,Agent,Sold
+132,Maharashtra,Nagpur,Tech Park,House,3,967,40.59703706000747,4198.245817994568,2000,Fully,4,16,2,3,Medium,1,Gated,Pool,North,Builder,Under Construction
+133,Maharashtra,Pune,Riverside,House,4,1424,20.441154449187696,1435.4743292968888,2001,Semi,8,10,3,0,Medium,0,CCTV,Basic,East,Individual,Under Construction
+134,Maharashtra,Nagpur,Central,Apartment,2,757,27.97993131823166,3696.160015618449,2021,Semi,14,7,0,1,Medium,2,Gated,Gym,East,Agent,Under Construction
+135,Karnataka,Bengaluru,South,Apartment,4,2286,62.57628415504341,2737.3702605005865,2004,Unfurnished,10,23,5,0,High,1,CCTV,Pool,West,Individual,Sold
+136,Maharashtra,Mumbai,Tech Park,Apartment,4,2120,32.387967706431155,1527.7343257750545,2001,Semi,13,6,5,0,Medium,2,Guard,Gym,East,Individual,Available
+137,Maharashtra,Nagpur,South,Apartment,5,2187,53.24738474911192,2434.7226679978016,2017,Unfurnished,2,24,6,2,Medium,1,Gated,Gym,South,Agent,Sold
+138,Maharashtra,Pune,North,Villa,2,876,15.259612099004812,1741.9648514845676,1997,Semi,3,13,5,4,Low,0,Guard,Gym,South,Agent,Available
+139,Maharashtra,Nashik,Tech Park,Apartment,1,481,31.259435548140868,6498.843149301636,2021,Fully,11,24,1,3,Low,0,None,Basic,East,Individual,Available
+140,Maharashtra,Nashik,West,Apartment,5,2407,44.10710510467309,1832.4513961226874,2021,Semi,4,10,5,4,Low,1,CCTV,Basic,South,Builder,Sold
+141,Telangana,Hyderabad,East,Apartment,2,1071,49.79868013568656,4649.736707347018,2020,Unfurnished,12,15,6,2,Medium,1,Gated,"Gym, Pool",South,Individual,Sold
+142,Maharashtra,Mumbai,South,Apartment,4,1860,34.45288465606827,1852.3056266703372,2003,Fully,6,16,1,0,Medium,2,Guard,Basic,South,Individual,Available
+143,Maharashtra,Mumbai,Central,Apartment,5,2405,52.18987095542172,2170.0570043834396,1998,Fully,3,10,3,1,High,2,Gated,"Gym, Pool",East,Agent,Under Construction
+144,Maharashtra,Nashik,South,Villa,1,527,21.555290646376406,4090.1879784395455,2007,Semi,12,7,7,4,Medium,0,Gated,Gym,North,Individual,Under Construction
+145,Telangana,Hyderabad,East,House,1,461,53.00352048881479,11497.509867421864,2005,Unfurnished,8,14,3,0,Low,0,CCTV,"Gym, Pool",East,Builder,Available
+146,Telangana,Hyderabad,Tech Park,Apartment,1,461,55.052060914528774,11941.878723325113,2023,Fully,12,17,6,0,Medium,0,CCTV,Gym,South,Agent,Under Construction
+147,Maharashtra,Pune,South,House,1,786,21.930271000572354,2790.1108143221827,2013,Unfurnished,6,8,4,4,Low,0,Gated,"Gym, Pool",South,Agent,Sold
+148,Maharashtra,Mumbai,North,Apartment,1,561,31.953314666112043,5695.77801534974,2023,Fully,1,19,5,0,High,0,None,Pool,South,Builder,Under Construction
+149,Karnataka,Bengaluru,South,House,5,2212,59.7734586045036,2702.2359224459133,2017,Unfurnished,10,17,5,4,High,0,Guard,"Gym, Pool",North,Agent,Under Construction
+150,Maharashtra,Pune,Tech Park,Apartment,3,1752,28.590334677682886,1631.8684176759639,2016,Semi,1,6,5,3,Low,1,None,Basic,East,Builder,Sold
+151,Telangana,Hyderabad,East,Apartment,4,2557,80.90471186449149,3164.04817616314,1998,Fully,9,23,6,3,Low,0,CCTV,"Gym, Pool",East,Individual,Available
+152,Maharashtra,Mumbai,South,House,4,2173,41.66600411578764,1917.4415147624318,1997,Unfurnished,6,3,7,2,Low,0,CCTV,Gym,West,Individual,Under Construction
+153,Telangana,Hyderabad,West,Apartment,5,2520,69.17827348715282,2745.1695828235247,1996,Unfurnished,11,17,2,0,Medium,0,None,Gym,South,Agent,Available
+154,Maharashtra,Mumbai,West,Apartment,2,962,15.0,1559.2515592515592,2012,Unfurnished,13,12,7,2,Low,2,Gated,Basic,East,Agent,Sold
+155,Maharashtra,Nashik,South,Apartment,2,1068,27.148478233912535,2541.9923439993013,2001,Semi,6,17,5,4,High,1,CCTV,"Gym, Pool",East,Builder,Available
+156,Maharashtra,Nagpur,Tech Park,Apartment,5,2276,50.64602385443219,2225.220731741309,2024,Semi,13,20,4,4,Low,2,None,Pool,East,Agent,Sold
+157,Maharashtra,Pune,West,Apartment,1,976,15.0,1536.8852459016393,1998,Unfurnished,1,18,2,2,Medium,0,CCTV,"Gym, Pool",East,Agent,Under Construction
+158,Maharashtra,Nagpur,Central,Apartment,2,573,27.807000852373037,4852.879729908034,2023,Semi,1,17,3,4,Medium,0,None,Pool,West,Builder,Available
+159,Maharashtra,Nagpur,South,House,5,1888,46.33633290715004,2454.254920929557,2015,Fully,14,21,5,3,Low,1,CCTV,Basic,West,Individual,Sold
+160,Karnataka,Bengaluru,Tech Park,Apartment,4,2172,64.1567660156329,2953.810590038347,1998,Fully,8,18,2,0,High,1,CCTV,Gym,North,Agent,Available
+161,Telangana,Hyderabad,South,Apartment,5,2531,83.27111306928194,3290.0479284583935,1996,Unfurnished,6,20,2,3,Low,0,None,Gym,South,Agent,Available
+162,Maharashtra,Nagpur,East,Apartment,5,2444,55.53471945355122,2272.2880300143706,2006,Semi,2,11,6,3,High,0,Gated,Basic,East,Individual,Under Construction
+163,Maharashtra,Nashik,West,House,1,708,40.59431643216281,5733.660513017347,2005,Unfurnished,4,7,3,2,High,1,None,"Gym, Pool",East,Agent,Sold
+164,Maharashtra,Nashik,West,Apartment,4,2110,52.04424029452533,2466.5516727263193,2004,Semi,10,8,5,3,Medium,0,Gated,"Gym, Pool",South,Individual,Under Construction
+165,Maharashtra,Nashik,Tech Park,Apartment,5,2269,59.34658895035682,2615.539398429124,2010,Fully,12,16,0,4,High,1,CCTV,Pool,North,Agent,Under Construction
+166,Karnataka,Bengaluru,North,Apartment,5,1950,61.698767101546935,3164.0393385408684,1998,Fully,13,14,0,2,Medium,2,Guard,Pool,East,Builder,Under Construction
+167,Maharashtra,Mumbai,East,Villa,5,2212,36.999791517694845,1672.6849691543782,1998,Unfurnished,6,4,6,1,Low,1,Guard,Pool,East,Agent,Available
+168,Maharashtra,Mumbai,East,Villa,5,2251,60.691936893545204,2696.2210970033407,2015,Unfurnished,6,7,1,4,Low,1,None,Pool,North,Agent,Available
+169,Maharashtra,Nashik,North,Apartment,3,1410,26.798006553398896,1900.5678406665884,2024,Fully,2,24,6,4,High,1,None,Basic,East,Builder,Available
+170,Maharashtra,Pune,West,Villa,2,536,15.0,2798.507462686567,2003,Fully,1,18,7,3,Medium,2,Guard,Pool,West,Individual,Available
+171,Maharashtra,Pune,Central,Apartment,3,1430,17.474102229414683,1221.9651908681597,2022,Unfurnished,6,19,3,3,High,1,Guard,"Gym, Pool",East,Agent,Sold
+172,Maharashtra,Pune,East,Apartment,2,883,15.0,1698.7542468856172,2005,Unfurnished,8,7,7,0,Low,1,CCTV,"Gym, Pool",West,Builder,Under Construction
+173,Karnataka,Bengaluru,South,Apartment,2,694,38.768195275011145,5586.195284583739,2005,Semi,1,4,3,2,High,2,None,Pool,South,Builder,Under Construction
+174,Karnataka,Bengaluru,North,Apartment,4,718,46.41183150241794,6464.0433847378745,1997,Semi,6,9,7,0,High,0,Guard,"Gym, Pool",North,Individual,Sold
+175,Karnataka,Bengaluru,Riverside,Apartment,5,1949,73.31577752429641,3761.7125461414266,2007,Semi,9,21,1,2,Low,0,Gated,Pool,East,Individual,Sold
+176,Maharashtra,Nashik,North,Apartment,3,1534,28.324240194270793,1846.4302603827114,2009,Fully,12,14,3,4,Medium,1,None,Gym,North,Builder,Sold
+177,Karnataka,Bengaluru,North,Apartment,4,1610,41.4776437872631,2576.251166910751,2014,Fully,14,20,3,1,High,0,CCTV,Gym,North,Builder,Under Construction
+178,Maharashtra,Pune,Riverside,Apartment,4,2052,30.952914624701393,1508.4266386306722,1999,Fully,5,13,6,4,Low,0,CCTV,Pool,North,Builder,Sold
+179,Telangana,Hyderabad,Tech Park,Apartment,3,1628,60.2050554627689,3698.0992298998094,2000,Unfurnished,5,13,0,0,Low,0,CCTV,"Gym, Pool",West,Builder,Sold
+180,Maharashtra,Nagpur,Central,Villa,5,1804,54.952055158880306,3046.122791512212,2007,Fully,13,16,6,0,Low,2,None,Basic,West,Agent,Available
+181,Telangana,Hyderabad,North,Villa,1,634,34.92206924533536,5508.212814721665,1997,Fully,10,24,0,4,Medium,1,CCTV,Gym,South,Agent,Available
+182,Maharashtra,Pune,West,Apartment,5,2279,33.36670525147393,1464.0941312625682,1999,Semi,4,12,2,0,Low,2,CCTV,Pool,East,Builder,Under Construction
+183,Maharashtra,Nashik,Riverside,Apartment,3,1414,37.925563500271615,2682.1473479682895,2013,Semi,10,16,4,3,Medium,0,Gated,"Gym, Pool",South,Agent,Sold
+184,Karnataka,Bengaluru,Tech Park,Apartment,2,783,51.659570874149594,6597.646344080408,2023,Fully,2,23,1,3,High,1,CCTV,Gym,North,Builder,Sold
+185,Maharashtra,Nashik,East,Apartment,5,2198,34.58467234488943,1573.4609802042505,2012,Fully,6,11,3,1,Low,1,Gated,Pool,West,Builder,Sold
+186,Maharashtra,Nashik,Central,Apartment,3,2029,45.62003343482738,2248.399873574538,1999,Semi,4,21,7,0,Low,1,Guard,Basic,West,Builder,Sold
+187,Maharashtra,Pune,Tech Park,Apartment,2,564,15.0,2659.574468085106,2024,Unfurnished,14,14,6,1,Medium,2,None,Gym,South,Agent,Available
+188,Maharashtra,Nashik,North,Villa,1,865,15.0,1734.1040462427745,2010,Semi,0,22,0,0,Low,2,CCTV,"Gym, Pool",South,Individual,Under Construction
+189,Maharashtra,Mumbai,Central,Apartment,1,483,21.74346342723139,4501.752262366747,2016,Fully,12,13,4,3,Low,1,None,Pool,West,Builder,Available
+190,Maharashtra,Mumbai,West,Apartment,2,1032,15.0,1453.4883720930231,2000,Unfurnished,4,16,4,4,Low,2,None,"Gym, Pool",South,Individual,Under Construction
+191,Karnataka,Bengaluru,West,Apartment,2,664,47.638449177131804,7174.465237519849,2012,Fully,0,10,0,4,Low,0,Gated,Basic,South,Builder,Available
+192,Maharashtra,Nagpur,Central,House,4,1976,49.59639818496047,2509.939179400834,1997,Unfurnished,9,16,5,4,High,0,Guard,Gym,South,Agent,Available
+193,Maharashtra,Nagpur,North,Apartment,4,1573,54.44448459344819,3461.1878317513156,2013,Fully,10,10,4,3,Low,2,Guard,"Gym, Pool",South,Builder,Sold
+194,Maharashtra,Nashik,West,House,5,2557,65.36559338201184,2556.3392014865794,2001,Semi,2,16,5,4,Medium,0,CCTV,"Gym, Pool",East,Individual,Sold
+195,Telangana,Hyderabad,North,Apartment,4,2061,45.588361383107596,2211.953487778146,2022,Unfurnished,0,20,2,3,High,0,None,"Gym, Pool",North,Agent,Sold
+196,Maharashtra,Pune,West,Apartment,4,1764,18.84531991094154,1068.3287931372756,1996,Unfurnished,1,12,2,3,Medium,0,CCTV,Gym,South,Agent,Under Construction
+197,Maharashtra,Nashik,South,Apartment,3,1545,37.63153376730189,2435.6979784661416,2014,Unfurnished,6,12,5,4,Medium,0,Gated,"Gym, Pool",South,Builder,Available
+198,Maharashtra,Pune,West,Apartment,1,567,15.0,2645.5026455026455,1999,Fully,1,10,5,1,Medium,1,Guard,Gym,South,Individual,Under Construction
+199,Maharashtra,Nashik,East,House,1,600,28.944683052952197,4824.113842158699,2015,Semi,10,19,1,2,High,0,Gated,"Gym, Pool",South,Builder,Sold
+200,Telangana,Hyderabad,South,Apartment,4,1775,76.37519311921164,4302.827781364036,2009,Fully,1,16,1,4,Low,1,CCTV,"Gym, Pool",South,Agent,Under Construction
+201,Maharashtra,Nashik,South,House,1,459,27.092797639667175,5902.570291866487,2024,Unfurnished,11,14,4,1,Low,2,Guard,Gym,South,Builder,Available
+202,Telangana,Hyderabad,West,Apartment,1,541,47.064224883361696,8699.48703943839,2014,Fully,13,3,6,1,High,0,Guard,Gym,West,Individual,Under Construction
+203,Maharashtra,Nashik,East,House,1,921,15.0,1628.6644951140065,2006,Fully,10,5,1,0,Low,2,CCTV,"Gym, Pool",East,Individual,Sold
+204,Karnataka,Bengaluru,West,House,5,2350,52.83709859171382,2248.3871741154817,1997,Unfurnished,14,3,1,1,Low,1,CCTV,Gym,East,Agent,Available
+205,Maharashtra,Nashik,West,Apartment,3,1436,40.636515840407995,2829.84093596156,2012,Semi,14,21,6,2,Low,1,Gated,Gym,South,Builder,Sold
+206,Maharashtra,Mumbai,North,Apartment,4,1975,34.88285078434376,1766.220292878165,2008,Fully,0,21,5,4,Low,1,CCTV,Pool,West,Agent,Sold
+207,Karnataka,Bengaluru,Tech Park,Villa,3,1334,51.79860991544512,3882.9542665251215,1996,Unfurnished,5,4,7,0,Low,0,Guard,"Gym, Pool",North,Builder,Sold
+208,Telangana,Hyderabad,East,Apartment,2,822,57.92294171084527,7046.586582827892,2012,Unfurnished,11,4,6,3,Medium,0,Guard,Basic,East,Individual,Under Construction
+209,Maharashtra,Mumbai,Riverside,House,3,1247,28.179628283817895,2259.7937677480268,2001,Fully,5,20,7,3,Medium,1,CCTV,"Gym, Pool",North,Builder,Available
+210,Karnataka,Bengaluru,Tech Park,Apartment,1,647,17.270014321339485,2669.2448719226404,2002,Semi,11,14,1,4,Low,2,Gated,Gym,West,Agent,Available
+211,Maharashtra,Mumbai,Tech Park,Apartment,4,2106,19.699472799810074,935.3975688418839,1995,Unfurnished,11,9,2,3,High,1,Guard,Basic,South,Builder,Under Construction
+212,Karnataka,Bengaluru,West,Apartment,1,844,56.13413765062871,6650.964176614775,2006,Fully,14,16,1,0,Low,1,Guard,Gym,South,Builder,Under Construction
+213,Karnataka,Bengaluru,Riverside,Villa,3,1259,49.188245119717195,3906.9297156248767,2001,Fully,4,8,0,2,High,1,Gated,Gym,North,Builder,Available
+214,Maharashtra,Nashik,East,House,5,2557,32.95514208612857,1288.8205743499636,1997,Unfurnished,5,7,6,4,High,1,Guard,Pool,West,Builder,Sold
+215,Karnataka,Bengaluru,Riverside,Apartment,4,1722,63.37138963495458,3680.1039276977112,2008,Unfurnished,0,11,5,4,Medium,0,Gated,Pool,South,Individual,Sold
+216,Maharashtra,Mumbai,South,Villa,1,1435,19.091136830862208,1330.392810513046,2001,Unfurnished,4,22,0,3,Medium,1,CCTV,Basic,South,Individual,Under Construction
+217,Maharashtra,Pune,West,House,2,1617,26.611915019194168,1645.7585045883839,1999,Fully,4,19,1,4,Low,2,Guard,Gym,West,Individual,Sold
+218,Maharashtra,Pune,Central,Apartment,4,2135,30.944113039439543,1449.3729760861613,2009,Unfurnished,6,7,1,3,Low,0,Guard,Basic,North,Agent,Under Construction
+219,Maharashtra,Nashik,Tech Park,Apartment,2,997,36.530304886197875,3664.0225562886535,1996,Fully,6,15,3,0,High,2,Guard,Gym,South,Builder,Under Construction
+220,Telangana,Hyderabad,North,Villa,4,1818,71.51699315736904,3933.828006455943,2024,Semi,12,22,3,4,Medium,2,None,Pool,North,Agent,Under Construction
+221,Maharashtra,Pune,West,Apartment,5,2326,42.73090606499245,1837.0982831037168,2009,Semi,11,23,2,0,Low,0,Gated,"Gym, Pool",North,Individual,Under Construction
+222,Maharashtra,Nashik,Central,Apartment,4,1680,66.15079117389138,3937.5470936840106,2024,Fully,10,19,7,1,High,1,None,Basic,North,Individual,Sold
+223,Karnataka,Bengaluru,North,House,4,1410,62.053644694268485,4400.967708813368,2021,Fully,0,5,1,1,High,2,CCTV,Pool,North,Agent,Available
+224,Maharashtra,Mumbai,Tech Park,Apartment,1,762,15.0,1968.5039370078741,2024,Unfurnished,7,8,4,3,Low,1,CCTV,Gym,West,Agent,Sold
+225,Karnataka,Bengaluru,Riverside,House,2,983,52.76649267642701,5367.9036293415065,2011,Unfurnished,10,7,3,0,Low,2,None,Gym,South,Builder,Sold
+226,Maharashtra,Mumbai,North,House,5,2483,46.94791880509423,1890.774015509232,2007,Unfurnished,3,6,3,3,Low,2,CCTV,Pool,West,Individual,Sold
+227,Karnataka,Bengaluru,Central,House,3,1613,66.49114239058136,4122.203496006284,2016,Fully,6,6,6,4,Low,1,Gated,Basic,South,Agent,Available
+228,Maharashtra,Nagpur,Riverside,Apartment,3,1097,40.59729399652955,3700.7560616708797,1997,Semi,10,9,7,3,Medium,2,Guard,"Gym, Pool",West,Individual,Available
+229,Maharashtra,Nagpur,Tech Park,Apartment,3,1349,48.77088362993624,3615.336073382968,2020,Unfurnished,11,15,0,1,Low,2,Guard,Gym,North,Builder,Under Construction
+230,Maharashtra,Mumbai,North,Apartment,4,1692,40.527919503877996,2395.267110158274,2004,Unfurnished,12,11,3,4,Medium,2,Guard,Basic,North,Builder,Sold
+231,Maharashtra,Nashik,West,Apartment,5,1605,60.5753616275266,3774.165833490754,1995,Semi,6,12,0,1,Low,2,Gated,"Gym, Pool",North,Agent,Sold
+232,Telangana,Hyderabad,North,Villa,4,1954,56.71377237446037,2902.4448502794457,2002,Fully,5,8,3,3,High,0,Guard,"Gym, Pool",West,Individual,Sold
+233,Maharashtra,Pune,Riverside,Apartment,4,1003,15.674552147150717,1562.7669139731522,2002,Semi,5,6,4,2,High,0,Gated,Pool,East,Individual,Available
+234,Karnataka,Bengaluru,South,Apartment,4,1845,53.203030095139404,2883.6330674872306,1995,Fully,10,24,3,0,Medium,0,Guard,Pool,East,Individual,Under Construction
+235,Maharashtra,Nashik,Central,Apartment,2,1401,32.60446829668056,2327.2282867009676,2015,Fully,6,16,2,0,Medium,0,Guard,Basic,West,Individual,Sold
+236,Karnataka,Bengaluru,South,Apartment,5,2472,67.71662833402937,2739.3458063927737,1997,Fully,6,8,2,0,Low,2,None,Gym,South,Builder,Under Construction
+237,Maharashtra,Nagpur,East,Apartment,1,789,15.0,1901.1406844106464,2020,Semi,2,20,2,4,Low,1,None,Gym,East,Agent,Sold
+238,Maharashtra,Nashik,Riverside,Apartment,1,769,20.23502613858341,2631.3428008561,2008,Fully,7,21,2,4,Medium,1,Gated,"Gym, Pool",East,Individual,Available
+239,Maharashtra,Mumbai,Central,Villa,3,1442,28.885278843191024,2003.1400029952167,2016,Fully,3,24,2,2,Low,0,Gated,Gym,East,Builder,Under Construction
+240,Maharashtra,Nagpur,Tech Park,Apartment,4,1542,41.36455416300179,2682.5262103114,2005,Semi,7,6,5,4,Medium,2,Guard,Pool,East,Individual,Under Construction
+241,Maharashtra,Pune,West,House,4,1935,37.31343919518341,1928.343110862192,1998,Semi,13,17,0,0,Medium,1,None,Gym,South,Individual,Sold
+242,Maharashtra,Nagpur,Tech Park,House,4,1318,51.33041649501243,3894.5687780737803,2000,Fully,11,24,0,4,Low,2,Gated,Pool,North,Agent,Available
+243,Maharashtra,Pune,Tech Park,Apartment,5,2414,42.74857951948241,1770.860792024955,2014,Semi,7,20,4,1,Medium,0,CCTV,Basic,North,Individual,Available
+244,Maharashtra,Nagpur,North,Villa,4,1469,46.607914006702856,3172.764738373237,2016,Unfurnished,14,7,5,0,Medium,0,CCTV,Pool,East,Builder,Available
+245,Maharashtra,Nagpur,Central,Apartment,2,728,44.45427067730608,6106.355862267318,2003,Fully,14,22,2,3,High,0,CCTV,Basic,East,Agent,Available
+246,Maharashtra,Pune,Riverside,Apartment,3,706,16.3125875008797,2310.5648018243205,2005,Unfurnished,6,12,1,1,Low,0,Guard,Pool,East,Agent,Sold
+247,Karnataka,Bengaluru,North,Apartment,4,2542,65.83241252595468,2589.7880616032526,2023,Fully,11,13,4,1,Medium,2,CCTV,Basic,East,Individual,Sold
+248,Maharashtra,Nashik,North,Apartment,1,738,23.355617831813028,3164.717863389299,2020,Semi,5,15,3,3,High,1,CCTV,"Gym, Pool",North,Builder,Available
+249,Karnataka,Bengaluru,East,House,5,2487,73.63549043643664,2960.815859929097,2007,Semi,13,19,5,1,Low,1,None,"Gym, Pool",South,Agent,Sold
+250,Maharashtra,Pune,Tech Park,House,2,1047,19.67627804566271,1879.3006729381766,2002,Unfurnished,5,5,1,3,High,0,CCTV,Pool,South,Builder,Under Construction
+251,Maharashtra,Mumbai,Riverside,House,1,650,15.0,2307.6923076923076,2004,Semi,3,14,0,0,High,0,Gated,"Gym, Pool",West,Individual,Sold
+252,Maharashtra,Nashik,East,Apartment,2,1105,37.7696355605101,3418.0665665620004,2011,Fully,2,20,4,0,Medium,2,None,"Gym, Pool",East,Individual,Available
+253,Maharashtra,Mumbai,North,Apartment,5,1771,60.01601716648052,3388.8208450864213,2012,Unfurnished,12,15,3,1,High,2,CCTV,Basic,East,Agent,Sold
+254,Maharashtra,Mumbai,South,House,3,1369,29.604290481713424,2162.4755647708857,2000,Fully,4,9,5,3,High,2,None,Pool,East,Agent,Under Construction
+255,Maharashtra,Nagpur,West,Apartment,5,2138,54.801635397679746,2563.219616355461,1996,Fully,12,4,4,1,Low,2,None,Gym,South,Individual,Sold
+256,Maharashtra,Pune,North,Apartment,4,1763,29.826991190875958,1691.8316047008486,2009,Fully,1,15,2,0,High,1,Guard,"Gym, Pool",West,Individual,Under Construction
+257,Karnataka,Bengaluru,East,Apartment,3,1311,64.46356432964758,4917.1292394849415,2018,Semi,7,18,1,3,Low,0,Gated,"Gym, Pool",East,Individual,Sold
+258,Maharashtra,Pune,Central,Apartment,4,1814,23.787504261209012,1311.3287905848406,1999,Unfurnished,6,15,1,2,Low,2,None,"Gym, Pool",West,Individual,Under Construction
+259,Maharashtra,Mumbai,South,Apartment,5,2538,26.65136857968838,1050.0933246528125,2007,Fully,6,24,6,2,Low,2,Guard,Gym,East,Agent,Sold
+260,Maharashtra,Nagpur,North,Apartment,4,1335,53.590068867111526,4014.2373683229607,1999,Semi,2,16,1,1,Medium,1,CCTV,Basic,East,Agent,Under Construction
+261,Karnataka,Bengaluru,West,Apartment,3,779,27.159729518056878,3486.486459314105,2002,Semi,1,14,4,0,High,0,None,Basic,North,Individual,Available
+262,Maharashtra,Mumbai,Tech Park,Apartment,3,1328,42.36712452594022,3190.2955215316433,2013,Fully,5,4,6,0,Medium,2,None,Basic,East,Agent,Sold
+263,Maharashtra,Mumbai,North,Apartment,5,2256,50.3180457808754,2230.4098307125623,2003,Fully,7,15,7,3,Medium,2,None,"Gym, Pool",North,Agent,Sold
+264,Telangana,Hyderabad,Riverside,Apartment,1,917,60.00875090769157,6544.029542823508,2002,Unfurnished,11,6,2,0,Low,0,Gated,Pool,East,Builder,Under Construction
+265,Telangana,Hyderabad,West,Apartment,5,2490,66.53226804428431,2671.978636316639,2024,Fully,6,18,0,1,Medium,0,Guard,Gym,East,Agent,Available
+266,Maharashtra,Nagpur,Tech Park,House,4,1714,42.45695085216291,2477.0683110946857,2000,Semi,3,6,6,4,Medium,2,CCTV,Gym,East,Individual,Sold
+267,Maharashtra,Nashik,Tech Park,Apartment,4,1743,44.412904266861105,2548.0725339564606,2000,Fully,3,22,5,1,Medium,0,Gated,Basic,South,Agent,Sold
+268,Maharashtra,Nashik,Central,Villa,3,1131,35.993859835236854,3182.480975706176,2022,Semi,9,9,2,3,Low,2,CCTV,Pool,North,Individual,Sold
+269,Maharashtra,Nagpur,Riverside,Villa,5,2428,60.717180844252205,2500.7076130252144,2011,Fully,6,12,4,1,Low,2,Gated,Gym,East,Agent,Sold
+270,Maharashtra,Nagpur,West,Apartment,2,527,35.94456191078512,6820.59998307118,1996,Fully,13,6,1,4,High,0,Gated,"Gym, Pool",East,Builder,Under Construction
+271,Maharashtra,Mumbai,Central,House,3,1092,46.02218733341475,4214.486019543475,2007,Fully,6,7,5,4,Medium,0,Guard,Basic,South,Individual,Available
+272,Maharashtra,Pune,North,Villa,3,1349,22.34397575752819,1656.3362310991986,2011,Fully,8,23,5,2,Medium,1,Guard,"Gym, Pool",East,Agent,Available
+273,Maharashtra,Pune,Tech Park,Apartment,3,1476,26.11429020161376,1769.2608537678698,2002,Semi,0,9,2,3,Low,1,CCTV,Basic,West,Agent,Available
+274,Telangana,Hyderabad,East,Apartment,3,1469,67.53728139181996,4597.5004351136795,2011,Unfurnished,2,14,3,2,High,2,Gated,Gym,East,Builder,Available
+275,Maharashtra,Nashik,South,Apartment,1,768,37.01211856138632,4819.286271013844,2014,Semi,12,24,2,4,Medium,1,None,Gym,North,Individual,Sold
+276,Maharashtra,Nashik,South,House,2,935,28.577606349666784,3056.428486595378,2002,Semi,5,16,0,1,Medium,0,Guard,Pool,West,Individual,Sold
+277,Maharashtra,Nashik,Riverside,Villa,1,654,15.0,2293.577981651376,2019,Fully,6,3,1,4,High,2,Guard,Pool,South,Agent,Available
+278,Karnataka,Bengaluru,North,House,3,1680,56.787131102640295,3380.1863751571605,2008,Semi,8,10,7,3,Low,2,Gated,Basic,East,Individual,Under Construction
+279,Maharashtra,Pune,North,House,3,1204,29.10538260331632,2417.39058167079,2023,Semi,0,11,3,3,Medium,1,Gated,Gym,West,Agent,Available
+280,Maharashtra,Pune,West,Apartment,4,1666,15.0,900.3601440576231,1997,Unfurnished,7,9,1,1,High,2,Gated,Pool,South,Builder,Under Construction
+281,Maharashtra,Mumbai,Tech Park,Villa,3,1717,32.57395531443849,1897.143582669685,2004,Fully,5,8,0,4,Medium,2,Gated,Gym,East,Agent,Sold
+282,Maharashtra,Nashik,North,Apartment,4,1959,40.927016929067435,2089.1790162872603,2016,Semi,2,14,2,3,Low,2,None,Basic,North,Agent,Sold
+283,Karnataka,Bengaluru,North,Villa,5,1626,72.32459522937037,4448.007086677145,2021,Unfurnished,6,11,7,4,Low,2,CCTV,Basic,West,Agent,Sold
+284,Maharashtra,Nashik,East,Apartment,4,1843,44.147345891493124,2395.406722273094,2001,Unfurnished,6,9,3,4,Low,1,Guard,Pool,North,Individual,Available
+285,Maharashtra,Nashik,North,Apartment,5,1712,53.95182597870046,3151.3917043633446,2024,Fully,2,12,7,0,Medium,0,None,Gym,East,Agent,Sold
+286,Telangana,Hyderabad,West,Villa,4,1852,78.61344955284456,4244.786692918173,2000,Unfurnished,8,10,3,4,Medium,1,None,Pool,South,Individual,Sold
+287,Maharashtra,Pune,North,Villa,4,1775,29.052081897300297,1636.737008298608,2007,Semi,11,8,6,4,Low,2,CCTV,Basic,North,Agent,Under Construction
+288,Maharashtra,Nagpur,Central,Apartment,4,1129,50.386561749743656,4462.937267470651,2004,Semi,4,12,6,1,High,2,CCTV,Pool,South,Individual,Available
+289,Maharashtra,Nagpur,North,Apartment,2,979,32.14266235081419,3283.213723270091,2007,Unfurnished,14,23,0,4,Low,2,CCTV,Basic,West,Agent,Available
+290,Maharashtra,Nashik,Tech Park,Apartment,4,2142,25.109204523759043,1172.2317704836155,2022,Unfurnished,9,14,0,2,Medium,1,Gated,Pool,North,Individual,Sold
+291,Karnataka,Bengaluru,Tech Park,House,3,1186,53.000114112925274,4468.812319808202,2016,Fully,11,16,7,1,High,1,None,"Gym, Pool",South,Builder,Available
+292,Maharashtra,Mumbai,East,Apartment,4,1630,35.29200494897769,2165.1536778513923,2018,Semi,1,24,7,1,Low,0,Guard,Gym,North,Builder,Available
+293,Telangana,Hyderabad,South,Apartment,1,873,63.056731715495815,7222.993323653587,2002,Unfurnished,11,16,1,1,Low,0,CCTV,Basic,North,Agent,Under Construction
+294,Maharashtra,Mumbai,Riverside,Apartment,3,1377,36.11207351792804,2622.518047779814,2023,Unfurnished,5,7,5,0,Low,0,Guard,Basic,North,Individual,Available
+295,Maharashtra,Nagpur,North,Apartment,3,1588,57.150798791223515,3598.916800454881,2008,Semi,10,11,7,3,Medium,2,Guard,Gym,East,Individual,Sold
+296,Maharashtra,Nagpur,West,Apartment,5,1795,50.768551933060095,2828.3315840144896,2014,Fully,12,13,7,3,Low,2,Gated,Basic,West,Builder,Sold
+297,Telangana,Hyderabad,West,Apartment,4,1581,59.09856069594121,3738.049379882429,2015,Fully,3,13,2,3,High,0,Guard,"Gym, Pool",East,Individual,Available
+298,Maharashtra,Nashik,West,House,3,1225,41.463044303311996,3384.7383104744486,2014,Unfurnished,3,6,6,2,Low,1,None,"Gym, Pool",West,Agent,Available
+299,Maharashtra,Mumbai,North,House,5,2517,61.03095918768065,2424.7500670512773,2013,Fully,0,5,5,1,High,1,Guard,"Gym, Pool",East,Individual,Available
+300,Maharashtra,Pune,Riverside,House,4,1552,42.21620718098753,2720.1164420739387,2009,Fully,9,10,7,3,Medium,0,Guard,"Gym, Pool",South,Agent,Sold
+301,Maharashtra,Nashik,West,Apartment,5,2187,64.16141531405623,2933.763846093106,2014,Unfurnished,11,23,1,4,Low,1,Gated,Pool,West,Builder,Under Construction
+302,Karnataka,Bengaluru,Tech Park,Apartment,4,2033,53.93037065263045,2652.7481875371595,2022,Unfurnished,6,18,4,0,Low,1,Guard,Gym,North,Agent,Under Construction
+303,Maharashtra,Pune,North,Villa,3,1650,18.700952049458692,1133.391033300527,2006,Fully,2,21,0,1,Low,2,None,Gym,East,Individual,Available
+304,Telangana,Hyderabad,West,House,5,2355,77.07764035288469,3272.935896088522,2010,Semi,4,6,2,4,Low,2,CCTV,Gym,North,Individual,Available
+305,Maharashtra,Nagpur,Riverside,Apartment,1,725,24.611614359375224,3394.7054288793415,2000,Fully,6,12,0,4,Low,0,Guard,"Gym, Pool",West,Builder,Under Construction
+306,Maharashtra,Pune,North,Villa,4,2430,32.613375329723176,1342.1142110997191,2005,Unfurnished,13,15,3,4,Medium,1,Guard,Gym,North,Individual,Available
+307,Maharashtra,Mumbai,Riverside,Villa,5,2277,46.30168637988982,2033.451312248126,2018,Unfurnished,1,12,6,0,Low,2,Gated,Gym,North,Individual,Under Construction
+308,Maharashtra,Nagpur,Central,Villa,4,1532,55.17096621883244,3601.238003840238,2014,Unfurnished,5,12,5,2,High,2,CCTV,Pool,South,Individual,Sold
+309,Maharashtra,Mumbai,Riverside,Villa,3,2026,25.834740676119054,1275.1599543987686,2001,Unfurnished,9,10,2,0,Low,2,None,Gym,East,Agent,Available
+310,Maharashtra,Pune,West,Apartment,4,1568,15.0,956.6326530612245,2011,Semi,3,4,3,4,Low,2,None,Gym,North,Agent,Under Construction
+311,Maharashtra,Nagpur,North,Apartment,3,1027,45.77346409624146,4457.0072148239005,2019,Unfurnished,13,21,2,2,Low,0,CCTV,Basic,South,Individual,Sold
+312,Karnataka,Bengaluru,Central,Apartment,5,2169,58.68356449211483,2705.5585289126248,1998,Fully,13,23,5,1,Low,2,CCTV,Basic,South,Individual,Sold
+313,Maharashtra,Pune,Riverside,Apartment,3,978,15.0,1533.7423312883436,1996,Semi,5,4,2,0,High,2,None,Basic,East,Builder,Available
+314,Maharashtra,Mumbai,North,House,2,1126,20.94763155148381,1860.3580418724518,2006,Fully,11,12,0,3,Low,2,Gated,Gym,West,Builder,Available
+315,Maharashtra,Mumbai,East,Apartment,4,1566,34.91234373883446,2229.3961519051377,2014,Semi,11,14,4,4,Low,2,CCTV,"Gym, Pool",East,Agent,Sold
+316,Maharashtra,Nagpur,Central,Apartment,5,2250,54.878795720926206,2439.05758759672,2004,Unfurnished,10,20,6,4,High,0,Gated,Gym,East,Individual,Sold
+317,Karnataka,Bengaluru,Tech Park,House,2,1275,34.88073057389943,2735.7435744234845,2019,Semi,2,24,3,4,Medium,0,Gated,Pool,South,Builder,Available
+318,Karnataka,Bengaluru,East,Villa,4,1512,57.34439988803078,3792.6190402136754,2020,Unfurnished,0,12,1,4,Low,1,Guard,Gym,West,Individual,Under Construction
+319,Telangana,Hyderabad,Tech Park,Villa,2,539,53.84770103229715,9990.29703753194,2010,Fully,5,19,0,3,High,1,CCTV,Gym,North,Individual,Under Construction
+320,Karnataka,Bengaluru,North,Apartment,3,699,43.075676357086664,6162.471581843586,2006,Fully,1,23,7,4,Low,0,None,Basic,North,Agent,Sold
+321,Maharashtra,Mumbai,North,House,2,570,15.0,2631.5789473684213,1996,Unfurnished,4,21,6,4,Low,0,None,Pool,North,Builder,Sold
+322,Maharashtra,Pune,West,Apartment,1,604,15.0,2483.4437086092717,2019,Semi,9,9,1,2,Medium,2,None,Pool,South,Builder,Under Construction
+323,Maharashtra,Nagpur,West,Apartment,5,2317,71.0818731015231,3067.840876198666,2021,Semi,8,20,0,3,High,1,Guard,Gym,South,Individual,Sold
+324,Telangana,Hyderabad,Riverside,Apartment,5,2260,79.69358782797515,3526.2649481404937,2008,Unfurnished,3,12,1,4,Low,0,Guard,Pool,West,Builder,Available
+325,Telangana,Hyderabad,Tech Park,Apartment,5,2217,52.010877295332676,2346.002584363224,2010,Unfurnished,0,3,3,0,High,1,Guard,Gym,East,Builder,Available
+326,Maharashtra,Mumbai,Riverside,Villa,1,569,21.342202593524817,3750.8264663488258,2017,Fully,3,19,6,3,Low,1,None,Gym,South,Agent,Sold
+327,Maharashtra,Mumbai,Central,Apartment,2,616,15.0,2435.064935064935,2015,Unfurnished,6,21,1,1,High,0,Gated,Pool,North,Builder,Available
+328,Maharashtra,Pune,South,Apartment,2,1053,15.0,1424.5014245014245,1999,Semi,11,10,6,0,Low,2,Guard,Pool,East,Individual,Sold
+329,Maharashtra,Pune,Tech Park,House,3,1665,15.0,900.9009009009009,2015,Unfurnished,5,12,0,0,Medium,1,Gated,Basic,South,Agent,Available
+330,Maharashtra,Nagpur,East,Villa,2,1168,25.64727556926571,2195.8283877795984,2022,Semi,4,11,5,0,Medium,0,CCTV,Gym,West,Individual,Under Construction
+331,Maharashtra,Nagpur,Tech Park,Apartment,4,1498,49.943567146364295,3334.0164984221824,2017,Unfurnished,8,5,2,4,Low,0,CCTV,Gym,South,Agent,Available
+332,Maharashtra,Nashik,East,House,2,821,28.481010416780688,3469.063388158427,2009,Semi,1,24,7,3,Medium,2,Guard,"Gym, Pool",East,Builder,Sold
+333,Maharashtra,Mumbai,Central,Villa,5,2021,36.206073800545084,1791.493013386694,2010,Semi,3,3,3,0,High,0,None,Gym,West,Agent,Under Construction
+334,Karnataka,Bengaluru,East,House,3,1124,56.89562677219456,5061.888502864284,2002,Semi,0,15,2,3,Medium,0,Gated,"Gym, Pool",South,Builder,Available
+335,Maharashtra,Nashik,Riverside,House,1,593,20.325416658620497,3427.5576152817025,2014,Semi,7,3,1,3,Medium,1,Guard,Pool,South,Builder,Under Construction
+336,Karnataka,Bengaluru,West,House,5,2046,70.8188853569824,3461.3335951604304,2002,Unfurnished,6,18,6,2,High,1,Gated,Basic,East,Builder,Available
+337,Telangana,Hyderabad,Central,Villa,5,2390,75.40444177542956,3154.997563825505,2005,Semi,8,22,3,3,High,0,Gated,Gym,South,Individual,Sold
+338,Maharashtra,Mumbai,North,Apartment,1,481,15.0,3118.5031185031185,2002,Fully,9,17,2,4,Low,1,CCTV,"Gym, Pool",North,Individual,Available
+339,Maharashtra,Mumbai,Riverside,Apartment,4,1388,20.862325296098735,1503.0493729177763,2005,Semi,5,16,5,2,High,0,Guard,Gym,South,Agent,Under Construction
+340,Telangana,Hyderabad,Tech Park,Apartment,5,2228,66.56078778756552,2987.46803355321,2006,Unfurnished,13,21,4,3,High,1,Gated,Pool,North,Agent,Under Construction
+341,Maharashtra,Nagpur,Riverside,Villa,3,1968,55.97809475541069,2844.415383913145,1997,Fully,13,24,5,2,High,0,CCTV,"Gym, Pool",East,Agent,Available
+342,Maharashtra,Mumbai,Central,Apartment,4,2291,32.73410149268201,1428.81281068014,2016,Fully,1,21,3,1,High,1,None,Pool,North,Individual,Available
+343,Maharashtra,Nagpur,West,House,2,1342,22.602385186071146,1684.2313849531404,2008,Fully,13,8,0,4,High,2,CCTV,Basic,South,Builder,Under Construction
+344,Maharashtra,Nagpur,Riverside,Apartment,3,1250,35.12455401734495,2809.964321387596,2023,Fully,2,15,0,2,High,2,None,Gym,West,Builder,Under Construction
+345,Telangana,Hyderabad,West,Apartment,4,1974,68.04301971332777,3446.9614849710115,2000,Fully,3,21,0,3,Low,0,None,Gym,East,Agent,Available
+346,Maharashtra,Mumbai,West,Apartment,1,780,32.359471108178255,4148.650142074135,2015,Fully,7,9,4,3,High,0,CCTV,Gym,East,Builder,Available
+347,Telangana,Hyderabad,East,Apartment,3,964,46.34344467497536,4807.411273337693,2000,Semi,0,17,4,3,Low,0,Guard,"Gym, Pool",East,Agent,Sold
+348,Telangana,Hyderabad,North,Apartment,4,1741,52.05956053054124,2990.2102544825525,2011,Unfurnished,5,3,5,3,Medium,1,Guard,Basic,South,Agent,Sold
+349,Maharashtra,Mumbai,North,Apartment,4,1887,38.98101468749719,2065.766544117498,2009,Semi,2,22,7,3,High,1,CCTV,Pool,East,Builder,Under Construction
+350,Maharashtra,Pune,Riverside,House,2,707,20.879888616277157,2953.3081494027097,2008,Unfurnished,7,16,1,2,Low,2,CCTV,"Gym, Pool",North,Builder,Sold
+351,Maharashtra,Nagpur,Central,Apartment,4,1542,37.3183936501271,2420.1292898915112,2014,Fully,12,19,7,3,High,2,CCTV,"Gym, Pool",East,Builder,Available
+352,Maharashtra,Pune,Central,Apartment,1,1234,15.0,1215.5591572123176,2019,Semi,13,21,7,2,Medium,2,Gated,Pool,East,Agent,Sold
+353,Maharashtra,Mumbai,South,Apartment,3,1528,28.913509798302055,1892.24540564804,2004,Fully,3,7,4,1,Low,0,Gated,"Gym, Pool",West,Builder,Sold
+354,Maharashtra,Nashik,Riverside,Apartment,4,2510,39.29884885407138,1565.6911894052344,2020,Semi,8,12,4,3,Low,0,CCTV,Gym,West,Individual,Available
+355,Telangana,Hyderabad,West,Apartment,1,614,30.93022186466444,5037.495417697791,2000,Semi,7,21,1,4,Medium,2,None,Pool,North,Builder,Under Construction
+356,Telangana,Hyderabad,West,Villa,5,2590,65.8604047105076,2542.872768745467,2003,Fully,6,6,1,3,Medium,2,Gated,Pool,South,Builder,Sold
+357,Maharashtra,Pune,East,Villa,4,1416,39.43426458788487,2784.905691234807,2004,Semi,9,21,0,3,Medium,0,Gated,Basic,East,Agent,Under Construction
+358,Telangana,Hyderabad,Central,Apartment,5,2110,69.74861415328697,3305.621523852463,2023,Semi,14,9,5,4,Low,0,CCTV,Basic,South,Agent,Available
+359,Maharashtra,Pune,South,Apartment,3,1362,23.693544194868682,1739.6141112238386,1998,Semi,6,15,3,1,Low,2,Guard,"Gym, Pool",East,Individual,Under Construction
+360,Karnataka,Bengaluru,Central,Apartment,2,1118,57.18519117803072,5114.954488195949,2006,Fully,0,14,1,0,Low,1,Gated,Basic,West,Builder,Sold
+361,Telangana,Hyderabad,Riverside,Apartment,5,2106,95.1419634511273,4517.662082199777,2007,Fully,13,18,1,1,Low,2,Gated,Gym,South,Individual,Available
+362,Telangana,Hyderabad,Riverside,House,4,1928,64.94493536305686,3368.5132449718285,2019,Unfurnished,13,21,0,3,High,1,Gated,Pool,West,Builder,Under Construction
+363,Maharashtra,Mumbai,North,Apartment,2,759,20.071649774240523,2644.4861362635734,2009,Semi,4,10,5,4,Low,2,CCTV,Pool,West,Agent,Under Construction
+364,Telangana,Hyderabad,South,House,5,1966,88.65056895422046,4509.184585667368,2024,Semi,7,6,5,2,High,2,Gated,Pool,West,Agent,Under Construction
+365,Maharashtra,Pune,South,Apartment,4,2069,15.50365062613157,749.3306247526134,2017,Semi,12,12,5,3,Low,0,None,"Gym, Pool",North,Individual,Available
+366,Maharashtra,Nagpur,Tech Park,Apartment,3,1283,49.904647642724775,3889.684149861635,2016,Unfurnished,7,16,0,0,Medium,0,None,"Gym, Pool",South,Individual,Available
+367,Maharashtra,Nashik,East,Apartment,5,2440,41.742051612938084,1710.7398202023805,2017,Fully,7,19,0,3,High,2,CCTV,"Gym, Pool",North,Agent,Sold
+368,Maharashtra,Mumbai,Riverside,Apartment,3,1827,27.608320296945816,1511.1286424163006,1999,Fully,13,19,0,3,Medium,0,Gated,Pool,North,Builder,Sold
+369,Maharashtra,Pune,East,House,3,1167,19.16384129023573,1642.1457832249985,2008,Unfurnished,12,10,6,2,Low,0,Gated,"Gym, Pool",North,Builder,Under Construction
+370,Karnataka,Bengaluru,West,Apartment,2,473,33.21441030296538,7022.074059823549,2012,Unfurnished,7,23,5,3,Medium,2,CCTV,Pool,South,Agent,Sold
+371,Maharashtra,Nashik,East,House,4,1901,30.074092335427622,1582.0143259036097,2001,Semi,2,4,2,2,Low,0,CCTV,Pool,North,Agent,Sold
+372,Maharashtra,Nagpur,North,House,1,899,34.579080236935,3846.393797211902,1998,Unfurnished,6,5,0,2,High,0,Guard,"Gym, Pool",South,Agent,Under Construction
+373,Maharashtra,Nashik,Tech Park,Apartment,4,2076,58.25341570593481,2806.0412189756653,1999,Fully,10,3,2,3,High,0,CCTV,"Gym, Pool",West,Agent,Under Construction
+374,Maharashtra,Nashik,West,Apartment,3,1578,34.44257153011773,2182.672467054356,2018,Fully,4,23,6,3,Medium,1,CCTV,Basic,West,Agent,Sold
+375,Telangana,Hyderabad,Riverside,Apartment,4,1453,66.34754895300232,4566.245626497062,2014,Fully,8,6,1,1,Medium,1,CCTV,"Gym, Pool",West,Agent,Under Construction
+376,Maharashtra,Pune,Tech Park,Apartment,1,802,16.2721167206156,2028.9422344907232,2003,Semi,9,16,6,1,Medium,2,Guard,Pool,North,Agent,Sold
+377,Karnataka,Bengaluru,North,Villa,5,1979,48.37390338265359,2444.3609592043244,2017,Fully,1,20,3,2,High,2,Guard,"Gym, Pool",East,Builder,Sold
+378,Karnataka,Bengaluru,Central,Apartment,1,806,49.074417431891405,6088.637398497693,2015,Unfurnished,8,19,1,1,Medium,1,Gated,Pool,East,Individual,Available
+379,Maharashtra,Nashik,West,House,3,1348,40.264609165909434,2986.9888105274063,2019,Unfurnished,11,23,7,1,High,2,CCTV,"Gym, Pool",North,Agent,Under Construction
+380,Maharashtra,Mumbai,South,Apartment,5,2248,56.7167469874891,2522.986965635636,2022,Unfurnished,3,4,4,1,Medium,0,Guard,Gym,West,Agent,Sold
+381,Maharashtra,Pune,East,Apartment,5,2428,35.08438828796987,1444.9912803941463,2021,Fully,8,11,5,1,Low,1,Guard,Basic,South,Individual,Sold
+382,Telangana,Hyderabad,North,Villa,5,2576,80.38843438794147,3120.6690367989704,2000,Semi,10,14,0,2,High,0,Guard,Basic,West,Builder,Under Construction
+383,Telangana,Hyderabad,South,Apartment,5,2509,77.10935252986518,3073.310184530298,2018,Unfurnished,0,18,2,2,Medium,0,Guard,Gym,North,Builder,Sold
+384,Maharashtra,Mumbai,South,House,4,1645,40.61868623015475,2469.221047425821,2006,Unfurnished,9,16,5,3,High,2,Guard,Basic,East,Builder,Under Construction
+385,Maharashtra,Pune,South,Apartment,2,881,15.0,1702.61066969353,2007,Semi,3,15,5,1,Medium,0,CCTV,Gym,North,Agent,Under Construction
+386,Maharashtra,Pune,Riverside,House,5,2253,30.777141981692743,1366.051574864303,2014,Unfurnished,5,9,0,4,Medium,1,Guard,Basic,West,Builder,Available
+387,Maharashtra,Pune,West,House,5,2173,38.83149624663938,1786.999367079585,2013,Semi,9,5,4,2,Medium,1,CCTV,Basic,East,Agent,Available
+388,Karnataka,Bengaluru,East,House,5,2579,63.2877658156417,2453.965328252877,2007,Semi,0,12,7,3,Medium,0,CCTV,Pool,North,Agent,Sold
+389,Telangana,Hyderabad,Central,Apartment,5,1849,68.33522599563538,3695.7937261025086,2024,Unfurnished,0,8,6,0,High,2,Gated,"Gym, Pool",North,Agent,Sold
+390,Maharashtra,Pune,East,House,1,754,15.0,1989.3899204244033,2000,Unfurnished,6,15,1,0,Medium,0,CCTV,Basic,South,Builder,Sold
+391,Karnataka,Bengaluru,North,Apartment,4,1531,66.5859931500762,4349.183092754814,1997,Semi,14,20,7,2,High,0,Gated,Pool,North,Individual,Sold
+392,Maharashtra,Mumbai,South,Villa,3,1413,25.44258909908572,1800.6078626387628,1995,Semi,0,15,5,1,Medium,1,Gated,Pool,North,Agent,Available
+393,Maharashtra,Nashik,South,Apartment,5,2262,37.661038963391334,1664.944251255143,2019,Unfurnished,11,15,0,2,Low,0,CCTV,Pool,West,Individual,Under Construction
+394,Maharashtra,Nagpur,Central,Apartment,2,1294,20.609998621805396,1592.7355967392114,2007,Semi,1,3,1,0,High,2,Guard,Basic,West,Individual,Under Construction
+395,Karnataka,Bengaluru,South,Apartment,3,1156,39.68106108099702,3432.6177405706762,2008,Semi,7,17,7,2,Medium,0,None,Pool,East,Individual,Sold
+396,Telangana,Hyderabad,North,Apartment,2,622,40.01801707146005,6433.764802485539,2014,Unfurnished,6,12,1,3,High,0,Gated,Basic,West,Individual,Under Construction
+397,Maharashtra,Pune,Riverside,Apartment,5,2246,24.30514586914173,1082.1525320187768,2008,Semi,7,5,0,3,Medium,0,None,Basic,East,Agent,Sold
+398,Maharashtra,Mumbai,Tech Park,House,4,2073,22.46870848745987,1083.8740225499216,2012,Unfurnished,1,7,3,1,Medium,0,CCTV,Gym,North,Builder,Sold
+399,Maharashtra,Mumbai,Central,Apartment,1,538,15.0,2788.104089219331,1996,Unfurnished,11,20,4,1,High,0,Guard,"Gym, Pool",East,Individual,Sold
+400,Maharashtra,Mumbai,West,Villa,3,1382,24.54888508193456,1776.3303243078553,1999,Unfurnished,4,23,4,2,Medium,1,Guard,Basic,North,Individual,Sold
+401,Telangana,Hyderabad,West,Apartment,2,1481,51.208648601330346,3457.7075355388483,2022,Unfurnished,11,14,5,2,High,0,None,"Gym, Pool",West,Individual,Sold
+402,Karnataka,Bengaluru,South,Villa,3,1459,67.10087560316295,4599.100452581421,2008,Unfurnished,9,24,7,3,Medium,0,Gated,"Gym, Pool",South,Agent,Available
+403,Maharashtra,Mumbai,East,Villa,5,2425,48.58406745878972,2003.466699331535,2000,Fully,8,6,6,1,Low,0,None,"Gym, Pool",North,Agent,Under Construction
+404,Telangana,Hyderabad,Riverside,Apartment,3,773,56.92348302338971,7363.969343258695,2006,Unfurnished,4,9,0,3,Low,0,Gated,Gym,South,Individual,Under Construction
+405,Maharashtra,Nashik,South,Villa,4,1108,32.9325259916512,2972.2496382356676,2005,Fully,9,23,0,4,High,1,None,Basic,East,Individual,Available
+406,Maharashtra,Nagpur,Central,House,1,838,30.232736834246417,3607.7251592179496,2003,Fully,14,6,0,1,Medium,2,Guard,Basic,West,Builder,Under Construction
+407,Maharashtra,Nashik,South,House,3,974,36.346825241661755,3731.706903661371,2003,Fully,13,17,3,4,Medium,0,CCTV,"Gym, Pool",East,Agent,Under Construction
+408,Maharashtra,Pune,North,Apartment,5,2400,47.09038826360215,1962.099510983423,2016,Fully,13,7,2,1,High,2,CCTV,Basic,North,Individual,Under Construction
+409,Telangana,Hyderabad,South,Apartment,5,2472,67.3531455612169,2724.641810728839,1998,Unfurnished,3,10,7,1,Medium,2,Gated,Pool,West,Agent,Available
+410,Maharashtra,Pune,North,Villa,2,545,15.0,2752.293577981651,2004,Semi,8,13,2,3,Medium,0,None,Gym,West,Individual,Under Construction
+411,Maharashtra,Mumbai,North,Apartment,4,1808,19.68632753115797,1088.8455492897108,2009,Fully,5,10,0,3,High,1,Guard,"Gym, Pool",South,Individual,Under Construction
+412,Maharashtra,Mumbai,Tech Park,House,2,950,25.09882531682749,2641.9816122976304,2011,Semi,14,22,7,2,Low,1,None,Pool,East,Builder,Available
+413,Maharashtra,Mumbai,Central,Apartment,2,864,24.04982345455034,2783.5443813136962,2021,Unfurnished,14,24,2,1,Low,1,Guard,Pool,West,Individual,Under Construction
+414,Maharashtra,Pune,West,House,1,1077,15.0,1392.757660167131,2022,Semi,13,14,7,0,High,0,None,"Gym, Pool",South,Individual,Available
+415,Maharashtra,Pune,Riverside,Apartment,1,867,24.340535231853963,2807.443510017758,2003,Fully,2,14,6,4,Low,1,None,"Gym, Pool",North,Individual,Available
+416,Karnataka,Bengaluru,West,Apartment,4,1503,54.04443267098414,3595.770636792026,2011,Fully,4,4,7,4,High,0,CCTV,Gym,North,Individual,Under Construction
+417,Telangana,Hyderabad,Tech Park,House,5,2590,77.32497966906709,2985.5204505431307,1995,Semi,10,8,6,4,Low,2,Guard,Pool,East,Agent,Under Construction
+418,Maharashtra,Pune,Central,House,3,1710,21.960026941290806,1284.2121018298717,2013,Unfurnished,11,3,1,2,Low,1,CCTV,Pool,West,Individual,Sold
+419,Maharashtra,Mumbai,South,House,4,2004,42.63960887664108,2127.724993844365,1999,Unfurnished,5,21,5,4,High,0,None,"Gym, Pool",East,Individual,Available
+420,Maharashtra,Nagpur,North,House,4,1510,46.56838633626067,3083.9990951166005,1997,Unfurnished,2,8,3,2,Medium,1,Guard,Gym,East,Individual,Under Construction
+421,Telangana,Hyderabad,West,Apartment,1,479,46.465989377070024,9700.624087070986,2015,Semi,2,10,5,0,High,2,CCTV,Gym,South,Individual,Sold
+422,Karnataka,Bengaluru,West,Apartment,1,630,45.39692720665077,7205.861461373139,2000,Unfurnished,10,21,5,0,Medium,2,Guard,"Gym, Pool",South,Builder,Available
+423,Karnataka,Bengaluru,Tech Park,Apartment,3,1028,56.91671220548123,5536.645156175217,2009,Semi,6,18,4,1,Low,0,CCTV,"Gym, Pool",North,Agent,Sold
+424,Maharashtra,Nagpur,South,Apartment,3,973,36.87842036211836,3790.176810084107,1998,Unfurnished,7,16,2,1,High,2,Guard,Pool,South,Individual,Sold
+425,Maharashtra,Nashik,North,Apartment,5,2257,54.34973943239777,2408.0522566414606,2017,Unfurnished,12,3,7,4,Low,0,CCTV,Basic,East,Agent,Sold
+426,Maharashtra,Mumbai,Tech Park,House,5,2263,40.36423212168874,1783.6602793499221,2017,Unfurnished,0,15,5,1,Low,0,CCTV,Gym,West,Builder,Sold
+427,Telangana,Hyderabad,West,Apartment,5,2286,83.68527792773327,3660.7733126742464,2012,Unfurnished,11,15,7,3,High,0,None,Gym,West,Individual,Available
+428,Karnataka,Bengaluru,Riverside,Apartment,5,1820,48.652158527793574,2673.1955235051414,2020,Fully,4,10,1,1,Low,2,Gated,Pool,West,Agent,Under Construction
+429,Maharashtra,Pune,East,Apartment,4,1645,34.80625450000253,2115.88173252295,2008,Fully,13,19,6,3,Medium,2,None,Pool,North,Individual,Sold
+430,Karnataka,Bengaluru,East,Apartment,5,1845,74.34234595024881,4029.39544445793,2000,Fully,14,23,2,2,Medium,1,Gated,"Gym, Pool",West,Builder,Available
+431,Maharashtra,Pune,South,Apartment,3,1324,23.287208904456538,1758.8526362882583,1999,Semi,7,8,3,0,High,2,Gated,Basic,North,Builder,Under Construction
+432,Karnataka,Bengaluru,Riverside,Villa,3,1890,33.550210868160725,1775.143432177816,2001,Unfurnished,4,10,6,2,Low,0,Gated,Gym,East,Builder,Sold
+433,Karnataka,Bengaluru,North,Apartment,5,2158,62.06571598837074,2876.075810397161,2001,Fully,3,10,2,0,Low,0,Gated,Pool,West,Individual,Sold
+434,Maharashtra,Pune,Tech Park,Apartment,4,2090,35.66970648969746,1706.6845210381562,2004,Semi,2,21,2,4,Medium,2,Gated,"Gym, Pool",West,Individual,Under Construction
+435,Maharashtra,Nashik,North,House,3,1769,45.57999018124947,2576.596392382672,2001,Fully,14,4,7,3,Medium,2,None,Basic,East,Agent,Sold
+436,Maharashtra,Pune,East,Apartment,2,574,15.0,2613.240418118467,2012,Semi,2,22,7,4,High,0,None,"Gym, Pool",South,Agent,Sold
+437,Maharashtra,Nagpur,South,Villa,5,2008,67.30425283988865,3351.8054203131796,1999,Semi,6,20,2,4,Medium,0,Guard,Basic,East,Individual,Available
+438,Telangana,Hyderabad,West,Apartment,4,1238,63.11227357123448,5097.921936287115,2013,Semi,7,13,2,1,Low,1,Gated,Basic,East,Builder,Available
+439,Maharashtra,Pune,West,Apartment,4,2048,44.774295217756325,2186.244883679508,2005,Unfurnished,10,15,1,3,High,0,None,"Gym, Pool",East,Agent,Sold
+440,Maharashtra,Nashik,Tech Park,Apartment,3,1609,45.230088019137355,2811.0682423329617,2015,Semi,12,22,0,0,Medium,2,Guard,"Gym, Pool",South,Individual,Available
+441,Telangana,Hyderabad,Riverside,House,5,2344,90.72786232780709,3870.6425907767525,2010,Fully,8,19,4,4,High,2,Guard,"Gym, Pool",South,Builder,Available
+442,Maharashtra,Mumbai,North,Apartment,3,1177,32.57942815348399,2768.0057904404407,2022,Unfurnished,11,9,2,3,High,0,None,Pool,East,Agent,Under Construction
+443,Maharashtra,Pune,North,Apartment,5,2452,51.64309724444109,2106.1622040962925,2008,Unfurnished,8,4,6,3,Low,0,CCTV,Pool,North,Agent,Sold
+444,Maharashtra,Nashik,Tech Park,Apartment,5,2265,41.660878875876236,1839.3324007009376,2003,Fully,6,17,1,4,Medium,2,CCTV,Pool,West,Builder,Sold
+445,Maharashtra,Nagpur,East,House,2,1161,32.496970244705324,2799.0499780107943,2012,Semi,2,6,5,4,Medium,1,None,Pool,North,Agent,Available
+446,Maharashtra,Nagpur,Central,Villa,4,1487,58.58129312311433,3939.56241581132,2014,Fully,3,4,4,4,Medium,0,Guard,Pool,West,Builder,Under Construction
+447,Maharashtra,Mumbai,Riverside,Apartment,3,1592,28.445566696968495,1786.781827699026,2008,Semi,6,24,4,0,Low,0,Guard,Gym,North,Individual,Sold
+448,Telangana,Hyderabad,West,House,5,2102,79.6414353006252,3788.8408801439205,2011,Semi,0,13,0,0,Medium,2,Guard,"Gym, Pool",East,Agent,Available
+449,Maharashtra,Nagpur,Central,Villa,4,1931,60.06185605284811,3110.4016599092756,2009,Fully,4,17,3,4,Medium,2,None,Gym,South,Individual,Under Construction
+450,Maharashtra,Mumbai,Riverside,Apartment,5,2281,45.50246932590887,1994.8474057829403,2004,Semi,6,7,5,1,Low,0,CCTV,Pool,East,Individual,Under Construction
+451,Telangana,Hyderabad,West,Apartment,3,1245,59.31452452502779,4764.21883735163,2004,Unfurnished,7,5,2,2,Low,2,Gated,Pool,South,Builder,Sold
+452,Telangana,Hyderabad,West,Apartment,3,1535,74.47520628419191,4851.804969654197,2022,Semi,12,4,6,0,Low,0,CCTV,Pool,West,Agent,Sold
+453,Maharashtra,Nashik,Tech Park,House,3,1376,44.41247633930267,3227.6508967516475,2015,Unfurnished,14,10,4,3,High,0,Guard,Pool,North,Agent,Sold
+454,Maharashtra,Pune,East,Apartment,5,2405,28.87785446280177,1200.742389305687,1997,Semi,10,3,2,4,High,1,None,Basic,West,Agent,Available
+455,Maharashtra,Nagpur,East,Apartment,2,1105,34.50017229298393,3122.1875378266004,2023,Fully,1,12,0,4,Medium,1,CCTV,Gym,East,Builder,Under Construction
+456,Maharashtra,Nagpur,West,Apartment,4,1712,64.34525786123353,3758.4846881561643,2016,Unfurnished,6,10,1,2,Medium,2,Guard,Gym,West,Builder,Sold
+457,Maharashtra,Pune,North,Apartment,1,708,15.0,2118.64406779661,1996,Fully,10,14,3,3,Low,2,None,Gym,North,Builder,Under Construction
+458,Maharashtra,Nagpur,North,House,4,2278,36.233725110715355,1590.5937274238522,2016,Semi,8,15,3,2,Low,0,None,"Gym, Pool",North,Individual,Sold
+459,Telangana,Hyderabad,Riverside,Apartment,3,1276,73.73796178902094,5778.837130801015,2012,Unfurnished,6,9,6,2,High,1,None,"Gym, Pool",South,Builder,Under Construction
+460,Maharashtra,Pune,North,House,2,1182,25.507173214399888,2157.9672770219872,2022,Unfurnished,6,13,6,2,Low,2,None,Pool,South,Individual,Under Construction
+461,Karnataka,Bengaluru,East,Apartment,5,1703,66.67217332562274,3914.983753706561,2009,Fully,6,4,1,4,Low,1,Guard,Gym,West,Individual,Available
+462,Maharashtra,Pune,North,Apartment,3,1522,23.1494146392203,1520.9865071761037,2010,Fully,8,9,4,1,High,0,CCTV,Basic,West,Agent,Sold
+463,Karnataka,Bengaluru,North,Apartment,5,2273,79.26980014068728,3487.4527118648166,2004,Fully,2,24,3,2,Medium,0,CCTV,"Gym, Pool",South,Agent,Sold
+464,Maharashtra,Nashik,West,House,4,1592,33.45977885539611,2101.7449029771424,2004,Semi,7,24,0,3,Low,1,Guard,"Gym, Pool",West,Individual,Sold
+465,Maharashtra,Pune,Riverside,Apartment,3,1561,28.43682712107894,1821.705773291412,2013,Semi,3,13,5,2,Medium,1,Gated,Gym,North,Individual,Available
+466,Telangana,Hyderabad,East,Apartment,1,675,52.992889628300375,7850.798463451908,2019,Semi,10,23,4,0,High,1,Guard,"Gym, Pool",East,Individual,Available
+467,Maharashtra,Pune,Central,Villa,1,497,15.0,3018.1086519114688,2021,Semi,12,14,0,1,Medium,0,Guard,"Gym, Pool",North,Individual,Available
+468,Maharashtra,Nagpur,North,Apartment,4,1306,47.6696118993274,3650.0468529347168,2018,Unfurnished,7,5,3,3,Medium,0,Guard,Pool,East,Agent,Available
+469,Maharashtra,Mumbai,North,Apartment,4,2596,42.20662407958842,1625.8329768716649,2013,Unfurnished,5,22,5,3,Medium,1,CCTV,Basic,South,Agent,Available
+470,Telangana,Hyderabad,Tech Park,Apartment,4,2422,77.96478784821092,3219.025096953382,2010,Fully,14,12,2,3,Medium,2,Guard,Basic,South,Agent,Available
+471,Karnataka,Bengaluru,South,House,4,1802,55.085351995046054,3056.9007766396257,2005,Semi,9,16,2,4,High,1,Gated,"Gym, Pool",South,Builder,Sold
+472,Karnataka,Bengaluru,South,Apartment,4,1806,43.067728323117606,2384.702564956678,2018,Unfurnished,6,17,0,3,Low,1,Guard,Pool,South,Individual,Available
+473,Maharashtra,Nashik,Central,Apartment,3,1291,38.49475300760173,2981.777924678678,2004,Fully,0,9,1,2,Low,2,None,Basic,West,Individual,Under Construction
+474,Maharashtra,Nashik,East,Apartment,2,831,31.219704819194057,3756.8838530919443,2003,Unfurnished,0,19,7,1,Low,2,None,Basic,West,Agent,Under Construction
+475,Maharashtra,Nagpur,Tech Park,Apartment,1,468,33.42046773444241,7141.125584282566,2021,Semi,3,14,4,1,Medium,2,None,"Gym, Pool",South,Agent,Under Construction
+476,Karnataka,Bengaluru,South,Apartment,3,1178,56.98913571989919,4837.78741255511,2012,Unfurnished,3,11,1,4,Medium,1,CCTV,Gym,South,Builder,Sold
+477,Telangana,Hyderabad,West,Apartment,3,1130,54.99006931406681,4866.377815404142,2005,Semi,10,9,3,2,Medium,2,Gated,Gym,East,Builder,Available
+478,Maharashtra,Pune,North,Apartment,2,861,17.31341494886012,2010.8495875563437,2020,Semi,7,19,1,3,High,1,Guard,Pool,East,Agent,Sold
+479,Maharashtra,Nagpur,North,Apartment,3,1007,42.78078688774403,4248.340306628007,2023,Fully,14,8,3,0,Medium,1,Gated,Gym,North,Agent,Sold
+480,Maharashtra,Pune,Riverside,House,1,503,15.0,2982.1073558648113,2004,Fully,8,5,1,0,Low,1,CCTV,"Gym, Pool",East,Individual,Available
+481,Maharashtra,Mumbai,Central,Apartment,4,1757,24.830238398522614,1413.217894053649,2010,Fully,13,22,4,1,Medium,2,Guard,Pool,West,Builder,Sold
+482,Karnataka,Bengaluru,East,Apartment,5,2444,79.12661680405411,3237.586612277173,2009,Unfurnished,8,10,4,0,Medium,2,Guard,Gym,West,Individual,Under Construction
+483,Maharashtra,Mumbai,South,House,4,1935,16.600173187794898,857.8900872245425,2016,Unfurnished,5,17,5,3,Medium,0,Guard,Gym,East,Builder,Sold
+484,Karnataka,Bengaluru,Central,House,3,1413,58.064291654916424,4109.2916953231725,2023,Fully,10,18,3,3,Medium,2,None,"Gym, Pool",South,Builder,Available
+485,Maharashtra,Nashik,East,Villa,4,1353,22.956052562792117,1696.6779425566974,2011,Fully,6,21,2,2,High,0,Gated,Pool,South,Individual,Available
+486,Maharashtra,Mumbai,Tech Park,Apartment,1,1111,15.155380267034191,1364.120636096687,2018,Unfurnished,4,16,1,1,Low,1,None,"Gym, Pool",East,Individual,Under Construction
+487,Maharashtra,Nashik,Central,Apartment,1,756,18.887226933434,2498.3104409304233,2012,Unfurnished,7,18,1,2,Low,2,Guard,Gym,South,Builder,Sold
+488,Maharashtra,Nagpur,Riverside,Apartment,3,1736,31.34280234061161,1805.4609643209453,2021,Semi,9,21,3,0,Medium,1,CCTV,Basic,North,Builder,Available
+489,Karnataka,Bengaluru,East,Apartment,3,1668,51.07417851638548,3062.001110095053,2007,Unfurnished,5,23,3,2,Low,0,CCTV,"Gym, Pool",East,Agent,Sold
+490,Maharashtra,Nagpur,Riverside,Apartment,1,465,28.97720216332868,6231.656379210469,2006,Unfurnished,10,4,5,0,Low,1,Guard,Basic,North,Individual,Sold
+491,Telangana,Hyderabad,Central,Apartment,2,1343,36.24793590881022,2699.0272456299494,2007,Fully,14,19,0,0,Medium,1,Guard,"Gym, Pool",West,Individual,Under Construction
+492,Telangana,Hyderabad,Tech Park,Apartment,2,1047,61.985144349790936,5920.262115548322,2024,Semi,6,6,2,0,Medium,1,CCTV,Pool,South,Agent,Sold
+493,Karnataka,Bengaluru,Central,Apartment,1,816,52.64697287076563,6451.834910633042,2013,Unfurnished,4,22,6,0,Medium,0,Gated,Basic,South,Agent,Sold
+494,Maharashtra,Nagpur,Tech Park,Apartment,5,1961,65.71244940345866,3350.966313281931,1999,Semi,6,4,7,2,Low,1,Gated,"Gym, Pool",North,Agent,Available
+495,Maharashtra,Mumbai,West,Apartment,5,1580,33.09916740464275,2094.8840129520727,1996,Semi,12,8,7,2,High,0,CCTV,Basic,North,Agent,Sold
+496,Maharashtra,Nashik,South,Villa,4,1812,47.253161727693204,2607.7903823230245,2010,Semi,2,7,2,3,Medium,1,CCTV,Gym,West,Agent,Sold
+497,Maharashtra,Pune,Central,House,4,1983,44.72463758529197,2255.402803090871,2019,Fully,14,16,1,2,Low,2,Guard,Gym,East,Builder,Available
+498,Maharashtra,Nashik,West,Apartment,5,2560,54.92469003074979,2145.4957043261634,2009,Unfurnished,6,3,1,0,Low,2,None,Pool,West,Agent,Under Construction
+499,Telangana,Hyderabad,Central,Apartment,3,2175,69.87626228013485,3212.7017140291887,2011,Semi,12,3,1,0,Low,1,Gated,Pool,West,Builder,Under Construction
+500,Maharashtra,Nashik,West,Apartment,4,1783,40.4929885311403,2271.0593679831914,2018,Fully,11,14,7,3,Medium,2,CCTV,Pool,North,Agent,Sold
+501,Maharashtra,Pune,Riverside,Apartment,4,2339,33.24888330843406,1421.4999276799513,2010,Semi,11,24,7,4,Medium,0,Gated,Gym,South,Builder,Sold
+502,Maharashtra,Nagpur,North,Villa,3,1476,44.191796494286294,2994.024152729424,2022,Fully,13,14,6,1,Medium,2,None,Pool,West,Builder,Under Construction
+503,Telangana,Hyderabad,North,Apartment,5,2567,54.955568983443854,2140.8480320780623,2014,Semi,2,12,5,1,Medium,1,Guard,Basic,South,Agent,Available
+504,Telangana,Hyderabad,North,Apartment,4,2087,75.12201561074905,3599.521591315239,2016,Semi,8,17,2,1,High,2,Gated,Pool,East,Builder,Available
+505,Maharashtra,Mumbai,North,Apartment,4,1849,56.30142504251086,3044.9662002439622,2018,Fully,1,15,3,1,High,2,CCTV,Basic,East,Individual,Available
+506,Maharashtra,Nashik,Central,Apartment,5,2392,57.158120735391975,2389.5535424494974,2013,Semi,4,11,6,1,Medium,1,Guard,Basic,East,Agent,Under Construction
+507,Maharashtra,Nagpur,North,Apartment,4,1557,65.88772087172447,4231.709754124886,1996,Fully,0,15,6,2,High,1,None,Pool,West,Builder,Sold
+508,Maharashtra,Mumbai,West,Apartment,4,1999,37.360382990788786,1868.9536263526156,2007,Fully,10,3,4,3,High,2,Guard,Basic,West,Agent,Available
+509,Maharashtra,Mumbai,South,House,3,1062,23.213363573692337,2185.8157790670753,1999,Fully,9,8,6,3,High,0,CCTV,"Gym, Pool",East,Builder,Sold
+510,Maharashtra,Mumbai,Riverside,Apartment,5,2520,45.75118658575986,1815.523277212693,2010,Unfurnished,11,17,2,4,Low,0,Guard,Basic,East,Agent,Under Construction
+511,Telangana,Hyderabad,Riverside,Apartment,4,1790,57.783808141430406,3228.145706225162,1999,Semi,2,10,3,1,Medium,1,Guard,Basic,South,Builder,Available
+512,Karnataka,Bengaluru,Riverside,Apartment,5,2131,51.63964064044294,2423.2585941080683,2010,Fully,4,4,6,2,Medium,1,Guard,"Gym, Pool",North,Agent,Available
+513,Telangana,Hyderabad,East,Apartment,2,1440,62.419933089753336,4334.717575677315,2005,Semi,10,5,3,1,Low,2,Gated,Basic,East,Agent,Available
+514,Karnataka,Bengaluru,South,Apartment,5,2313,73.74807872386121,3188.416719578954,1995,Unfurnished,12,22,6,0,Low,0,Guard,"Gym, Pool",North,Individual,Sold
+515,Telangana,Hyderabad,Tech Park,Apartment,2,609,43.97313581734306,7220.547753258303,1998,Unfurnished,13,10,3,1,Medium,1,Gated,Gym,East,Agent,Available
+516,Maharashtra,Pune,North,Villa,2,695,16.626504620416995,2392.302823081582,2010,Fully,1,3,2,1,Medium,0,None,"Gym, Pool",South,Agent,Sold
+517,Telangana,Hyderabad,East,Apartment,3,1540,59.874999477848945,3887.9869790811,1997,Unfurnished,6,19,1,2,High,0,None,"Gym, Pool",West,Builder,Under Construction
+518,Maharashtra,Pune,East,Apartment,5,2024,36.24226882419972,1790.6259300493932,2020,Unfurnished,0,14,4,0,High,2,Guard,Basic,West,Agent,Available
+519,Maharashtra,Nashik,Riverside,Apartment,5,2189,54.12714587534098,2472.6882537844212,2017,Fully,12,12,3,3,Low,2,Guard,Gym,East,Agent,Available
+520,Maharashtra,Nagpur,East,Apartment,3,1396,55.21241347699973,3955.0439453438203,2016,Unfurnished,1,22,2,4,High,2,Gated,Pool,East,Builder,Under Construction
+521,Maharashtra,Nashik,Riverside,Apartment,5,1846,51.015500775769404,2763.5699228477465,2000,Fully,12,9,5,4,Medium,0,None,"Gym, Pool",South,Builder,Under Construction
+522,Maharashtra,Pune,Tech Park,House,5,1639,42.169182686310506,2572.860444558298,2018,Semi,2,15,0,0,Medium,1,CCTV,Basic,South,Agent,Sold
+523,Maharashtra,Mumbai,South,Apartment,5,2517,37.61323712765007,1494.3677841736223,2014,Fully,0,19,0,0,High,2,CCTV,Basic,North,Individual,Under Construction
+524,Karnataka,Bengaluru,Tech Park,Apartment,3,1856,60.47060742833301,3258.114624371391,2006,Semi,13,16,7,4,Medium,0,Guard,Gym,North,Builder,Available
+525,Maharashtra,Mumbai,North,Villa,2,1346,19.215374617928603,1427.5909820154982,1995,Fully,6,7,5,4,Low,2,None,Basic,East,Agent,Available
+526,Maharashtra,Mumbai,Tech Park,Apartment,5,2535,55.38935135269435,2184.9842742680216,2010,Fully,6,17,4,2,Low,2,CCTV,Gym,West,Agent,Under Construction
+527,Telangana,Hyderabad,North,Apartment,1,680,49.710081273638195,7310.306069652676,2018,Unfurnished,9,19,0,1,Medium,1,Guard,Basic,North,Individual,Under Construction
+528,Maharashtra,Pune,Riverside,Apartment,5,2566,35.55784150970429,1385.7303783984523,1996,Fully,4,5,4,2,Low,1,Guard,"Gym, Pool",South,Individual,Sold
+529,Telangana,Hyderabad,South,Villa,1,781,36.1006937323332,4622.367955484404,1996,Fully,10,6,3,2,Low,0,CCTV,"Gym, Pool",East,Builder,Sold
+530,Telangana,Hyderabad,Tech Park,Apartment,3,1069,50.23431590392214,4699.187643023586,2006,Unfurnished,6,17,4,4,High,2,Guard,Basic,East,Agent,Under Construction
+531,Maharashtra,Nagpur,Central,Villa,5,2216,60.899021748317764,2748.150800916867,2010,Unfurnished,4,5,0,2,Low,2,None,Pool,East,Builder,Under Construction
+532,Maharashtra,Pune,East,House,4,2027,35.771851386496365,1764.768198643136,2009,Unfurnished,5,22,4,0,Low,2,CCTV,Pool,East,Individual,Sold
+533,Maharashtra,Pune,Tech Park,Villa,5,2536,28.61409325669926,1128.3159801537563,2007,Unfurnished,0,5,4,3,Medium,2,None,Pool,North,Individual,Available
+534,Maharashtra,Mumbai,Central,House,4,2062,39.875761302964136,1933.8390544599486,2002,Semi,4,24,2,3,Low,1,None,"Gym, Pool",South,Builder,Under Construction
+535,Maharashtra,Nagpur,North,Villa,3,1819,49.45288263251243,2718.685136476769,1996,Fully,8,17,0,1,Low,2,None,Pool,South,Builder,Available
+536,Maharashtra,Pune,Central,House,4,1194,28.237143769055024,2364.9199136561997,1995,Semi,2,12,7,0,High,0,Guard,Pool,North,Individual,Under Construction
+537,Maharashtra,Nashik,South,House,1,460,23.541176470731962,5117.6470588547745,1997,Unfurnished,1,8,5,0,Medium,2,None,Basic,South,Builder,Sold
+538,Maharashtra,Pune,South,Villa,2,716,15.95430159774768,2228.2544130932515,2015,Semi,9,10,4,4,High,0,Guard,Basic,South,Builder,Available
+539,Maharashtra,Nagpur,West,House,2,1090,43.89672887423205,4027.2228324983535,2018,Unfurnished,6,19,6,2,Medium,1,None,Pool,West,Individual,Available
+540,Maharashtra,Pune,North,House,1,538,15.0,2788.104089219331,2008,Fully,2,19,5,2,Medium,0,Guard,"Gym, Pool",South,Individual,Available
+541,Karnataka,Bengaluru,North,Apartment,3,1542,51.19363213655007,3319.9502034079164,1997,Unfurnished,11,7,1,4,Low,0,None,Gym,West,Builder,Available
+542,Maharashtra,Pune,North,Apartment,3,2121,31.283361485715204,1474.9345349229234,2007,Fully,11,14,3,0,Medium,1,None,Pool,East,Agent,Available
+543,Maharashtra,Mumbai,Tech Park,Apartment,5,2520,59.266899246685426,2351.8610812176757,2024,Semi,0,24,7,1,Low,1,None,Basic,East,Agent,Sold
+544,Maharashtra,Mumbai,Tech Park,House,2,1502,15.97366922355491,1063.4932905163055,2002,Unfurnished,3,8,2,4,High,0,Guard,Gym,West,Builder,Sold
+545,Karnataka,Bengaluru,North,Apartment,4,2331,41.43717889746995,1777.656752358213,2009,Fully,5,18,7,2,Low,2,Guard,"Gym, Pool",West,Individual,Under Construction
+546,Maharashtra,Pune,North,House,5,2568,49.319836696057,1920.55438847574,2011,Semi,10,6,0,0,Low,0,None,Pool,North,Agent,Sold
+547,Maharashtra,Nashik,Central,Villa,5,2298,46.652792154256844,2030.1476133271037,2004,Fully,1,21,2,3,Medium,2,CCTV,Basic,South,Agent,Sold
+548,Maharashtra,Nagpur,Tech Park,House,3,1449,42.78422023526838,2952.6722039522692,2008,Semi,12,6,2,0,Medium,0,Gated,"Gym, Pool",East,Individual,Sold
+549,Maharashtra,Nagpur,West,Apartment,3,1149,26.57691196629972,2313.047168520428,2009,Fully,4,9,4,3,Low,1,None,"Gym, Pool",West,Builder,Sold
+550,Karnataka,Bengaluru,Riverside,Villa,5,2552,63.45089127783911,2486.3201911378965,2009,Semi,1,13,1,3,Medium,0,Guard,Gym,North,Individual,Available
+551,Karnataka,Bengaluru,South,Villa,3,970,46.011240712659045,4743.426877593715,2016,Unfurnished,12,11,1,4,Low,2,CCTV,Gym,South,Agent,Under Construction
+552,Maharashtra,Nashik,West,House,2,1334,42.673848584497094,3198.939174250157,2012,Unfurnished,1,6,5,2,High,2,Guard,Pool,North,Agent,Under Construction
+553,Karnataka,Bengaluru,Central,House,2,609,34.63164299153961,5686.64088531028,1996,Semi,1,17,2,1,Medium,0,Gated,"Gym, Pool",North,Individual,Under Construction
+554,Maharashtra,Mumbai,West,Apartment,5,2156,57.470267631831305,2665.596828934662,1995,Semi,14,3,7,4,High,0,CCTV,Gym,West,Agent,Sold
+555,Telangana,Hyderabad,West,Apartment,4,1847,66.45605697926645,3598.0539783035438,2007,Fully,7,24,6,2,High,1,CCTV,Basic,North,Builder,Available
+556,Maharashtra,Nagpur,South,Apartment,2,632,29.452067221084658,4660.137218526053,2022,Semi,6,4,2,3,Medium,2,CCTV,Basic,West,Builder,Sold
+557,Karnataka,Bengaluru,West,House,2,927,57.7877624098615,6233.847077654962,1996,Fully,10,10,4,0,High,0,None,"Gym, Pool",West,Individual,Sold
+558,Telangana,Hyderabad,West,Apartment,3,1644,61.37392333638251,3733.2070155950432,1997,Unfurnished,9,23,2,3,Low,0,Guard,"Gym, Pool",West,Agent,Available
+559,Karnataka,Bengaluru,East,Villa,3,1611,55.52218439496276,3446.4422343241936,2015,Semi,9,6,2,2,High,1,Gated,"Gym, Pool",North,Builder,Under Construction
+560,Telangana,Hyderabad,North,Villa,4,2174,72.20543581209488,3321.3171946685775,2008,Fully,0,4,5,1,Medium,0,CCTV,Basic,North,Agent,Sold
+561,Maharashtra,Nagpur,Central,Apartment,2,1022,47.92943903212009,4689.7689855303415,2001,Unfurnished,8,19,2,3,High,0,Gated,Basic,South,Individual,Available
+562,Maharashtra,Pune,Tech Park,Apartment,5,2438,39.891065818093985,1636.2209113246097,2001,Unfurnished,4,4,1,0,Low,0,None,Gym,East,Builder,Available
+563,Maharashtra,Nashik,North,Apartment,3,1405,26.553729182189457,1889.9451375223812,2014,Fully,12,22,2,3,Low,1,CCTV,Basic,West,Individual,Sold
+564,Maharashtra,Mumbai,South,House,5,2218,39.76436656410386,1792.8028207440875,2010,Semi,7,12,7,4,High,2,CCTV,Gym,South,Agent,Available
+565,Telangana,Hyderabad,West,Apartment,3,962,60.82326103015973,6322.58430666941,2014,Fully,1,22,2,2,Medium,1,CCTV,Pool,North,Builder,Sold
+566,Maharashtra,Mumbai,North,Apartment,2,529,15.0,2835.538752362949,2003,Semi,13,8,2,0,Low,0,Gated,Gym,West,Agent,Sold
+567,Maharashtra,Mumbai,South,Villa,2,568,16.804587170526105,2958.554079317976,2010,Fully,4,6,5,2,Medium,1,None,Basic,West,Individual,Under Construction
+568,Maharashtra,Mumbai,West,Apartment,4,1251,33.649070706869935,2689.7738374796113,2020,Fully,4,24,0,2,Low,1,Guard,Gym,East,Agent,Under Construction
+569,Maharashtra,Nagpur,West,House,5,2499,65.67866068750344,2628.197706582771,2004,Fully,14,19,2,2,Medium,0,CCTV,Pool,East,Individual,Under Construction
+570,Maharashtra,Nagpur,West,Apartment,2,554,45.650232940448774,8240.11424917848,2006,Unfurnished,11,23,1,1,High,0,CCTV,Pool,West,Builder,Under Construction
+571,Telangana,Hyderabad,Central,Apartment,2,1243,50.74178561545231,4082.203187083854,1999,Semi,12,10,7,3,High,0,Guard,Gym,South,Individual,Under Construction
+572,Maharashtra,Nashik,East,Apartment,2,684,26.409685717629035,3861.065163396058,2014,Unfurnished,9,11,7,1,Medium,2,Gated,Gym,North,Individual,Under Construction
+573,Maharashtra,Mumbai,East,Apartment,5,2452,56.29990671064751,2296.0810240883975,1995,Unfurnished,13,15,6,2,Medium,2,None,Pool,East,Builder,Sold
+574,Maharashtra,Pune,West,Apartment,4,1901,18.84454449970356,991.296396617757,2002,Unfurnished,1,12,1,2,High,0,Guard,Basic,South,Individual,Sold
+575,Maharashtra,Pune,North,Villa,3,2089,33.64531039577003,1610.5940830909542,2016,Semi,8,8,4,3,Low,0,Gated,"Gym, Pool",West,Builder,Sold
+576,Maharashtra,Nashik,North,Apartment,4,1983,50.89147550404641,2566.3880738298744,1995,Semi,4,11,5,3,Low,1,Guard,"Gym, Pool",West,Agent,Available
+577,Telangana,Hyderabad,Riverside,Apartment,3,1862,50.93612346486282,2735.55979940187,2024,Fully,5,16,6,4,Low,0,None,Basic,South,Individual,Available
+578,Maharashtra,Nagpur,West,Apartment,5,2113,41.29165861896703,1954.1722015602,2007,Unfurnished,3,3,1,3,High,2,Gated,"Gym, Pool",South,Agent,Sold
+579,Telangana,Hyderabad,Riverside,Apartment,2,467,61.963262807222655,13268.364626814273,2006,Semi,3,10,5,3,Medium,2,Guard,Basic,South,Individual,Under Construction
+580,Maharashtra,Pune,North,House,5,2310,29.266948481255692,1266.9674667210256,2011,Fully,6,9,1,4,Low,0,Guard,Gym,East,Individual,Under Construction
+581,Maharashtra,Pune,Tech Park,Apartment,5,2040,37.44554262180925,1835.5658147945712,2014,Fully,13,4,4,1,Low,0,None,Pool,East,Builder,Available
+582,Telangana,Hyderabad,North,House,4,2039,63.80009515319808,3128.9894631288903,2008,Unfurnished,9,5,7,1,Low,0,Guard,Gym,East,Builder,Available
+583,Maharashtra,Pune,West,Apartment,2,1295,21.318705850163326,1646.232111981724,2021,Fully,5,13,0,2,High,1,Guard,Basic,East,Builder,Available
+584,Maharashtra,Pune,North,Apartment,5,2171,47.77741963455693,2200.7102549312267,2023,Unfurnished,6,5,1,2,Medium,2,None,Basic,West,Individual,Under Construction
+585,Maharashtra,Nashik,Tech Park,Apartment,3,1270,25.024982318145934,1970.4710486729084,2001,Semi,7,10,6,3,Low,1,None,Pool,South,Builder,Under Construction
+586,Telangana,Hyderabad,South,Apartment,2,555,36.792389339674344,6629.259340481864,2016,Semi,3,15,0,0,Low,0,CCTV,Basic,North,Individual,Under Construction
+587,Karnataka,Bengaluru,Riverside,Villa,5,2401,76.88626234101653,3202.2599892135163,2004,Fully,7,22,5,0,Medium,0,Guard,Gym,West,Individual,Available
+588,Maharashtra,Pune,South,Apartment,3,954,15.0,1572.3270440251572,2024,Fully,10,5,4,3,Medium,0,Gated,Gym,West,Agent,Available
+589,Telangana,Hyderabad,Riverside,Apartment,2,669,50.899425649103264,7608.284850389127,2002,Fully,3,12,2,4,High,0,None,"Gym, Pool",East,Individual,Sold
+590,Telangana,Hyderabad,East,Villa,5,1787,71.08438722605057,3977.8616242893436,2003,Fully,8,5,6,1,Low,1,None,"Gym, Pool",South,Builder,Under Construction
+591,Karnataka,Bengaluru,Central,Apartment,2,952,48.90975384293281,5137.579185182018,2016,Semi,10,12,6,1,Low,1,CCTV,"Gym, Pool",South,Builder,Available
+592,Telangana,Hyderabad,North,House,5,2294,58.698686318852936,2558.7919057913227,2018,Fully,7,13,2,2,Low,0,Guard,Pool,South,Individual,Under Construction
+593,Maharashtra,Mumbai,West,House,3,1404,31.117843740696976,2216.370636801779,1998,Unfurnished,4,20,0,2,Medium,0,None,Pool,North,Agent,Under Construction
+594,Telangana,Hyderabad,North,Villa,1,459,50.23110439318296,10943.5957283623,2011,Semi,8,12,1,0,High,2,Gated,Gym,East,Builder,Under Construction
+595,Maharashtra,Mumbai,North,House,5,2496,27.745775822288874,1111.6096082647787,2005,Unfurnished,11,23,0,2,Medium,2,Guard,Basic,South,Agent,Available
+596,Karnataka,Bengaluru,East,Villa,4,1556,46.5240145488909,2989.975228077821,2013,Fully,3,6,7,4,Low,1,None,"Gym, Pool",South,Builder,Sold
+597,Maharashtra,Nagpur,North,Apartment,3,1015,39.8637128843039,3927.4593974683644,2011,Fully,8,4,4,3,Medium,1,None,Gym,East,Agent,Available
+598,Karnataka,Bengaluru,Central,Villa,5,1906,43.91581250880104,2304.082503085049,2024,Fully,10,3,5,4,Medium,1,Gated,Gym,West,Agent,Sold
+599,Maharashtra,Nagpur,West,Apartment,5,1590,45.62498482731374,2869.4959010889143,2023,Fully,4,10,1,3,Low,1,None,Basic,North,Individual,Under Construction
+600,Maharashtra,Nagpur,West,Villa,1,513,30.576060590511553,5960.245729144552,2014,Unfurnished,5,7,6,4,High,0,None,Gym,West,Agent,Under Construction
+601,Maharashtra,Nagpur,Riverside,House,5,2083,51.485722754434995,2471.7101658394145,2015,Fully,13,5,5,1,Medium,1,Gated,Pool,East,Agent,Under Construction
+602,Karnataka,Bengaluru,Tech Park,Apartment,2,1312,45.42604524739902,3462.351009710291,2021,Semi,5,8,6,0,Low,2,Guard,Gym,West,Builder,Under Construction
+603,Karnataka,Bengaluru,Central,House,4,1954,59.814759059803514,3061.1442712284297,2000,Fully,8,24,3,0,Medium,1,Guard,Pool,South,Individual,Under Construction
+604,Maharashtra,Pune,South,House,5,2375,24.56714255348956,1034.4060022521921,2016,Fully,2,20,5,4,High,2,None,Basic,West,Builder,Under Construction
+605,Karnataka,Bengaluru,North,Apartment,5,1762,60.028186962809805,3406.8210535079343,2018,Semi,13,3,4,3,High,1,Gated,Basic,East,Agent,Available
+606,Maharashtra,Nagpur,Tech Park,Apartment,4,1893,64.36408819578307,3400.110311451826,1998,Unfurnished,8,23,3,1,Low,0,None,"Gym, Pool",East,Builder,Under Construction
+607,Maharashtra,Mumbai,East,House,2,997,17.253731653426048,1730.5648599223719,2021,Semi,11,7,4,4,High,1,Guard,Gym,East,Individual,Available
+608,Maharashtra,Nagpur,Central,House,3,960,45.72383864214521,4762.899858556792,2015,Semi,9,11,2,1,Medium,2,CCTV,Gym,South,Builder,Available
+609,Telangana,Hyderabad,West,Apartment,1,1342,47.61771135507745,3548.2646315258903,2005,Fully,5,10,7,2,Medium,1,CCTV,Gym,East,Agent,Sold
+610,Telangana,Hyderabad,Central,Apartment,4,2283,64.30752837739857,2816.7993156985794,2009,Semi,5,11,5,1,Low,1,None,Pool,West,Individual,Available
+611,Telangana,Hyderabad,North,Villa,4,1577,73.96671648094689,4690.3434674031,2009,Semi,10,19,5,0,High,0,None,Pool,West,Builder,Under Construction
+612,Maharashtra,Nashik,Riverside,Apartment,3,1198,38.23682588771978,3191.721693465758,2022,Semi,12,18,5,1,High,2,CCTV,Gym,North,Individual,Available
+613,Karnataka,Bengaluru,East,Apartment,5,2126,48.01905982617984,2258.657564730943,2024,Unfurnished,1,16,3,1,Low,1,None,"Gym, Pool",East,Agent,Under Construction
+614,Maharashtra,Nashik,Riverside,Apartment,4,2284,55.57381334153245,2433.179218105624,2019,Unfurnished,12,16,7,2,Medium,0,Guard,"Gym, Pool",West,Agent,Under Construction
+615,Karnataka,Bengaluru,East,Apartment,5,2390,73.64716570343887,3081.4713683447226,2014,Unfurnished,12,19,1,0,High,1,Gated,Basic,East,Agent,Available
+616,Maharashtra,Nagpur,Riverside,Apartment,4,1092,43.22916478502768,3958.714723903634,1998,Semi,1,7,4,1,Medium,0,Guard,Pool,South,Builder,Sold
+617,Maharashtra,Mumbai,East,Villa,5,1975,48.2426248095293,2442.6645473179397,2022,Semi,1,11,0,2,Low,2,None,"Gym, Pool",South,Individual,Available
+618,Maharashtra,Mumbai,Central,Apartment,4,1719,21.655300968697635,1259.761545590322,1999,Fully,10,5,2,1,High,2,Gated,Gym,East,Builder,Under Construction
+619,Maharashtra,Pune,Central,Villa,3,1415,15.0,1060.070671378092,2000,Fully,12,18,4,3,Low,0,Gated,Basic,East,Agent,Under Construction
+620,Maharashtra,Pune,Riverside,Apartment,3,1303,18.935873198634603,1453.2519722666618,1997,Unfurnished,5,12,3,3,Medium,2,Gated,Basic,South,Individual,Under Construction
+621,Maharashtra,Nashik,Central,Apartment,1,696,15.0,2155.1724137931033,2023,Unfurnished,9,17,7,4,Medium,0,Guard,Pool,South,Individual,Under Construction
+622,Maharashtra,Nashik,South,Apartment,2,1040,25.07622305233175,2411.1752934934375,2009,Semi,14,15,4,4,High,1,Gated,"Gym, Pool",South,Agent,Under Construction
+623,Maharashtra,Pune,Central,Apartment,4,1631,39.032980841747545,2393.1931846565017,2002,Fully,4,9,3,1,Medium,1,None,Basic,North,Builder,Available
+624,Maharashtra,Nashik,South,Apartment,4,2356,39.908332073268795,1693.902040461324,1997,Unfurnished,3,6,3,3,High,0,Gated,Pool,North,Individual,Sold
+625,Maharashtra,Nagpur,West,Apartment,5,2312,38.4239097390539,1661.9338122428155,2007,Unfurnished,14,24,4,3,High,2,Gated,Gym,North,Individual,Available
+626,Maharashtra,Mumbai,North,Apartment,1,853,15.0,1758.4994138335287,2016,Unfurnished,4,9,6,2,High,2,CCTV,Gym,South,Builder,Under Construction
+627,Maharashtra,Nashik,East,Apartment,4,1910,46.80497847047843,2450.522433009342,2024,Semi,7,5,2,3,High,1,None,Pool,East,Builder,Under Construction
+628,Maharashtra,Nashik,Tech Park,Villa,1,632,20.042252883044167,3171.2425447854694,2011,Fully,6,9,4,0,High,0,None,"Gym, Pool",South,Agent,Under Construction
+629,Maharashtra,Nagpur,Central,Apartment,3,1901,63.7742363881685,3354.7730872261177,2013,Fully,7,22,4,1,High,2,CCTV,Basic,West,Agent,Available
+630,Maharashtra,Nashik,Central,House,3,1185,43.36951251399812,3659.874473755115,2020,Semi,4,8,0,4,High,1,Guard,Basic,North,Builder,Sold
+631,Karnataka,Bengaluru,North,Villa,4,1417,64.16317116797363,4528.099588424392,2022,Unfurnished,10,24,7,4,Medium,2,None,Gym,South,Builder,Under Construction
+632,Maharashtra,Mumbai,Riverside,Apartment,4,1992,44.7663351884848,2247.305983357671,2003,Semi,10,13,4,0,Low,1,None,Gym,North,Agent,Available
+633,Maharashtra,Nashik,South,Apartment,1,1363,28.059580242920497,2058.6632606691487,2024,Semi,3,21,1,2,Low,0,Gated,Pool,South,Agent,Available
+634,Maharashtra,Nashik,West,Apartment,4,2185,37.621653220245065,1721.8147926885613,2010,Unfurnished,7,17,5,1,High,0,None,Pool,East,Individual,Under Construction
+635,Maharashtra,Mumbai,Central,Apartment,4,1597,40.23399880255221,2519.3487039794745,2022,Fully,0,3,5,0,Low,0,None,Basic,South,Agent,Under Construction
+636,Karnataka,Bengaluru,Riverside,Apartment,4,2597,48.54038337824858,1869.0944697053746,1998,Fully,3,14,7,0,High,0,Guard,Gym,South,Agent,Under Construction
+637,Maharashtra,Mumbai,Central,Apartment,4,1822,38.87271821552707,2133.5191117193785,1997,Unfurnished,14,12,0,2,High,0,Guard,Pool,East,Individual,Sold
+638,Maharashtra,Mumbai,West,Apartment,2,1087,36.42572222264084,3351.0324031868304,2021,Unfurnished,7,7,3,3,Medium,0,CCTV,Gym,West,Agent,Sold
+639,Karnataka,Bengaluru,North,Apartment,5,2116,57.42566598167005,2713.878354521269,2015,Unfurnished,9,15,1,2,High,2,None,Pool,North,Individual,Sold
+640,Telangana,Hyderabad,Tech Park,Villa,2,1327,54.702119729367055,4122.239617887495,2000,Fully,13,5,4,1,Low,2,None,Gym,North,Builder,Sold
+641,Karnataka,Bengaluru,South,House,4,1598,64.3669759505228,4027.9709606084357,2021,Semi,10,18,4,3,Medium,0,Guard,Gym,North,Builder,Sold
+642,Telangana,Hyderabad,North,Villa,2,744,28.01171335489982,3765.0152358736314,1998,Unfurnished,11,21,3,3,High,0,Guard,Basic,East,Agent,Sold
+643,Telangana,Hyderabad,South,Apartment,3,706,56.95196769144479,8066.850947796713,2015,Unfurnished,10,5,7,4,High,2,CCTV,Basic,West,Agent,Under Construction
+644,Maharashtra,Nashik,Central,Apartment,4,1685,47.01722467050351,2790.3397430565883,2001,Unfurnished,7,13,4,1,Low,1,Guard,Basic,North,Builder,Under Construction
+645,Karnataka,Bengaluru,North,Apartment,2,851,44.231936598270664,5197.642373474814,1997,Semi,9,17,3,1,High,1,Gated,Pool,North,Builder,Under Construction
+646,Maharashtra,Mumbai,West,Villa,5,2594,41.74513917284677,1609.2960359617105,2019,Fully,4,4,0,2,Medium,2,None,Basic,East,Agent,Available
+647,Maharashtra,Nashik,South,Apartment,5,2289,40.50497258287713,1769.5488240662792,2020,Unfurnished,13,11,2,2,High,1,Guard,Pool,West,Agent,Sold
+648,Maharashtra,Nagpur,South,Apartment,4,1956,49.49622367233105,2530.4817828390105,1998,Unfurnished,2,8,7,2,Medium,2,Guard,"Gym, Pool",East,Agent,Under Construction
+649,Telangana,Hyderabad,Riverside,Apartment,4,2029,63.29939702967784,3119.7337126504603,1997,Semi,13,3,3,4,Medium,1,Gated,Pool,West,Agent,Under Construction
+650,Telangana,Hyderabad,Central,House,4,1729,66.42865582824746,3842.027520430738,2013,Fully,13,20,7,0,Low,1,Guard,Pool,East,Agent,Sold
+651,Maharashtra,Nashik,South,Apartment,1,579,22.655601873176835,3912.8846067662926,1995,Semi,2,12,4,2,Medium,0,Gated,Basic,North,Agent,Sold
+652,Maharashtra,Nagpur,North,Apartment,3,1293,43.849643505256005,3391.3104025720036,2017,Unfurnished,10,19,4,2,High,1,None,Gym,South,Agent,Sold
+653,Maharashtra,Mumbai,East,Apartment,4,1515,45.64783125265993,3013.058168492404,2022,Unfurnished,14,15,3,1,High,2,Guard,"Gym, Pool",West,Individual,Sold
+654,Karnataka,Bengaluru,South,Apartment,5,2417,57.69438122057464,2387.0244609257193,2017,Fully,8,22,4,3,Low,1,CCTV,Gym,East,Builder,Sold
+655,Maharashtra,Nagpur,Central,Apartment,1,921,39.244927447798354,4261.121329836955,2001,Fully,5,24,0,4,Low,0,None,"Gym, Pool",North,Individual,Available
+656,Maharashtra,Nagpur,Central,Apartment,3,1518,52.53473756755692,3460.78640102483,2000,Fully,13,16,0,2,High,1,None,Pool,North,Builder,Available
+657,Karnataka,Bengaluru,Riverside,Apartment,3,1189,36.67834234456628,3084.8059162797545,2015,Semi,7,10,3,0,Medium,2,Gated,Gym,East,Builder,Available
+658,Maharashtra,Nagpur,Central,Villa,1,738,36.463843241082685,4940.900168168386,1996,Fully,1,12,4,0,High,2,Gated,Basic,South,Individual,Sold
+659,Maharashtra,Pune,Riverside,Apartment,1,671,15.0,2235.469448584203,2011,Semi,3,21,4,2,Low,1,CCTV,Basic,East,Agent,Sold
+660,Maharashtra,Mumbai,Tech Park,Villa,3,1235,21.735652175088635,1759.9718360395657,2008,Unfurnished,10,12,3,3,Medium,2,Gated,Gym,South,Agent,Sold
+661,Maharashtra,Mumbai,East,Apartment,2,627,15.0,2392.3444976076553,2017,Semi,6,14,2,1,Low,0,Guard,Gym,South,Builder,Sold
+662,Karnataka,Bengaluru,South,Villa,2,594,40.872349030479086,6880.8668401479945,2001,Fully,3,7,5,1,High,1,Guard,Pool,East,Agent,Sold
+663,Maharashtra,Pune,Riverside,Apartment,4,1204,36.657971654907406,3044.6820311384886,2017,Semi,11,24,4,4,High,1,Guard,Pool,North,Individual,Sold
+664,Maharashtra,Mumbai,Tech Park,Villa,2,884,15.0,1696.8325791855204,2015,Fully,1,17,0,0,Low,0,Gated,Gym,South,Builder,Sold
+665,Maharashtra,Nagpur,Central,Apartment,4,1642,35.66076454008241,2171.788339834495,2002,Fully,3,10,3,0,Low,2,None,Pool,South,Individual,Available
+666,Karnataka,Bengaluru,Tech Park,House,3,487,33.70678031935381,6921.310127177374,2005,Unfurnished,6,15,5,0,High,2,None,"Gym, Pool",West,Individual,Under Construction
+667,Maharashtra,Nagpur,Tech Park,Apartment,2,1098,48.484261660038285,4415.688675777622,1996,Unfurnished,0,11,6,4,Low,0,Guard,Pool,East,Individual,Under Construction
+668,Telangana,Hyderabad,Central,Villa,3,1424,55.46109754712503,3894.73999628687,2008,Unfurnished,5,6,2,2,High,0,Gated,"Gym, Pool",South,Builder,Under Construction
+669,Telangana,Hyderabad,Central,Villa,5,2520,68.91058547780938,2734.5470427702135,2002,Fully,13,22,7,0,High,2,CCTV,Gym,South,Builder,Under Construction
+670,Maharashtra,Pune,Riverside,Apartment,4,1814,25.9024034537894,1427.9163976730651,1998,Fully,14,22,5,1,Low,2,Guard,"Gym, Pool",North,Agent,Available
+671,Telangana,Hyderabad,Central,Apartment,5,2343,60.21530639588241,2570.0088090432096,2011,Unfurnished,13,21,3,4,Low,2,Guard,Gym,North,Builder,Available
+672,Maharashtra,Nagpur,West,Apartment,2,1188,39.2842152259499,3306.752123396456,2012,Unfurnished,4,11,5,3,High,0,Gated,Basic,South,Agent,Available
+673,Maharashtra,Nagpur,Central,Apartment,5,1416,67.31459849642107,4753.855826018437,1997,Semi,0,8,6,1,Low,2,None,Basic,West,Builder,Available
+674,Maharashtra,Pune,West,Apartment,3,1353,29.393445204321907,2172.464538382994,2000,Semi,12,4,1,1,Medium,2,None,Basic,North,Individual,Sold
+675,Maharashtra,Nagpur,North,Apartment,5,2357,48.18261391264869,2044.2347862812342,1997,Fully,5,19,1,0,Low,2,Guard,"Gym, Pool",North,Individual,Under Construction
+676,Karnataka,Bengaluru,Central,Apartment,5,2512,76.63243599578138,3050.6542991951183,2015,Fully,11,10,3,3,Medium,2,CCTV,Basic,East,Individual,Sold
+677,Maharashtra,Nagpur,Central,Apartment,5,2519,51.824912489432876,2057.360559326434,2005,Unfurnished,1,22,0,0,Medium,2,Guard,"Gym, Pool",North,Builder,Sold
+678,Maharashtra,Pune,North,House,4,2066,15.0,726.0406582768635,1997,Unfurnished,10,22,6,1,High,1,Gated,"Gym, Pool",West,Builder,Sold
+679,Maharashtra,Nagpur,East,Apartment,4,1531,60.723010404112216,3966.2319009870816,2000,Semi,8,5,7,1,High,0,Guard,Gym,West,Agent,Available
+680,Telangana,Hyderabad,Central,Villa,3,1612,72.10461804141735,4472.991193636312,2024,Semi,13,23,4,3,Medium,0,Gated,"Gym, Pool",West,Individual,Under Construction
+681,Karnataka,Bengaluru,Riverside,Apartment,5,2558,69.97625193501614,2735.5845166151735,2002,Fully,1,6,7,3,Medium,2,Gated,"Gym, Pool",South,Individual,Available
+682,Maharashtra,Pune,West,Apartment,4,1061,20.125052775126996,1896.8004500590948,2015,Semi,6,13,0,3,Medium,2,Guard,"Gym, Pool",South,Agent,Available
+683,Telangana,Hyderabad,South,Apartment,3,1195,55.72153095806571,4662.889619921817,2009,Semi,14,13,5,1,High,0,Guard,Gym,South,Individual,Available
+684,Telangana,Hyderabad,Tech Park,Villa,5,2378,71.25166810753497,2996.285454480024,2000,Unfurnished,5,24,3,1,Low,1,None,Gym,North,Builder,Available
+685,Maharashtra,Mumbai,West,Apartment,2,1280,27.316674592283256,2134.1152025221295,2004,Unfurnished,9,17,2,1,Low,0,Guard,Basic,East,Individual,Available
+686,Karnataka,Bengaluru,West,House,2,955,39.61778696555196,4148.459368120624,1995,Fully,2,22,2,0,Medium,0,None,"Gym, Pool",West,Builder,Sold
+687,Maharashtra,Nashik,North,Apartment,4,1655,24.824721153851115,1499.9831512900976,2017,Fully,10,16,4,3,High,1,None,"Gym, Pool",South,Agent,Under Construction
+688,Maharashtra,Nagpur,West,Apartment,2,1149,42.37444469487878,3687.941226708336,2005,Unfurnished,4,21,5,2,High,1,CCTV,Pool,North,Individual,Under Construction
+689,Maharashtra,Nashik,East,Apartment,5,2365,51.56590142296885,2180.3763815208818,2009,Fully,8,21,1,2,Low,1,None,Basic,East,Builder,Under Construction
+690,Karnataka,Bengaluru,Tech Park,Apartment,4,2404,59.554445010503564,2477.3063648295993,1999,Semi,13,21,4,4,Low,1,CCTV,"Gym, Pool",South,Builder,Sold
+691,Telangana,Hyderabad,East,Apartment,3,1107,66.83532599709554,6037.518156919199,2019,Semi,9,12,7,0,Medium,1,Guard,Gym,West,Agent,Available
+692,Karnataka,Bengaluru,West,Apartment,3,1588,57.70971736465207,3634.113184172045,2001,Fully,7,11,0,4,Medium,2,Gated,Pool,West,Agent,Under Construction
+693,Telangana,Hyderabad,South,Apartment,5,2565,85.83775672616713,3346.5012368876073,2011,Fully,2,24,7,3,Medium,0,Gated,Pool,West,Individual,Available
+694,Telangana,Hyderabad,Central,Apartment,4,2045,78.8300809358374,3854.7716839040295,2021,Unfurnished,5,19,4,1,Low,0,Guard,Basic,South,Builder,Under Construction
+695,Maharashtra,Pune,Central,Apartment,3,913,15.0,1642.935377875137,2016,Unfurnished,12,23,2,3,High,1,CCTV,Basic,West,Agent,Under Construction
+696,Maharashtra,Mumbai,Tech Park,House,5,1720,21.643891286574764,1258.365772475277,2013,Fully,3,15,5,3,High,1,Guard,Basic,North,Individual,Sold
+697,Karnataka,Bengaluru,Riverside,Apartment,5,1782,52.18152678905293,2928.2562732352935,2021,Fully,9,23,4,1,High,2,Gated,"Gym, Pool",South,Agent,Under Construction
+698,Maharashtra,Nagpur,South,Apartment,3,1854,55.22930696846528,2978.92702095282,2000,Unfurnished,7,18,6,1,Medium,2,CCTV,"Gym, Pool",South,Individual,Available
+699,Maharashtra,Pune,West,House,2,503,15.0,2982.1073558648113,2023,Fully,4,19,0,4,Low,1,Guard,Gym,West,Builder,Under Construction
+700,Maharashtra,Pune,Central,Apartment,3,1093,15.0,1372.3696248856359,2011,Semi,10,6,0,0,Medium,0,Guard,Gym,East,Agent,Sold

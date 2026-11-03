@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/Atharva/Downloads/real_estate_investment_advisor (1)/real_estate_investment_advisor/mlruns/1/models/m-271f950aa5124093944cc18568939302/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.9.1
+    skops_trusted_types: null
+mlflow_version: 3.17.2
+model_id: m-271f950aa5124093944cc18568939302
+model_size_bytes: 11798084
+model_uuid: m-271f950aa5124093944cc18568939302
+prompts: null
+run_id: 909c2a88055c4f478a35a4e0014850c7
+utc_time_created: '2026-11-03 10:36:46.416620'
